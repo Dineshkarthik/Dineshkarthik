@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Dineshkarthik Raveendran (DK).
 
-I build and maintain optimized, scalable and highly available **data pipelines**  that   ingests data into **Data Lake** & **Data Warehouse** which facilitate deeper analysis and reporting.
+I build and maintain optimized, scalable and highly available **data pipelines** ingesting data into **Data Lake** & **Data Warehouse** which facilitate deeper analysis, reporting and ML modelling.
 
 
 - 🔭 I’m currently working on on building and improving a configuration-based format for managing complex data pipelines in Airflow - [Declarative Data Pipeline Definition](https://www.thoughtworks.com/de/radar/techniques?blipid=202005084).
