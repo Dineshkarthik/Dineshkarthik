@@ -1,0 +1,34 @@
+name: update_recent_stargazers
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron:  '0 0/3 * * *'
+  push:
+    branches: 'master'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        ref: ${{ github.head_ref }}
+
+    - name: 🐍 Setup Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.8
+        
+    - name: 📥 Install Packages
+      run: pip install -r requirements.txt
+    
+    - name: update-recent-stargazers
+      run: python scripts/update_recent_stargazers.py
+      env:
+        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+
+    - uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        file_pattern: README.md
+        commit_message: updated recent stargazers
