@@ -97,7 +97,7 @@ def update_stargazers():
     rendered_readme = template.render(
         stargazers=normalized_stargazers_list[0:10]
     )
-    with open("test-template.md", "w+") as f:
+    with open("README.md", "w+") as f:
         f.write(rendered_readme)
 
 

@@ -28,41 +28,33 @@ I build and maintain optimized, scalable and highly available **data pipelines**
 </p>
 
 
-## 10 Recent Stargazers
-{% for stargazer in stargazers -%}
+## Recent Stargazers:
 
-<a href='https://github.com/{{ stargazer.login }}'>
-  <img style="border-radius:50%" align="left" src='{{ stargazer.avatar }}' width="96" height="65"/>
-</a>
-
-<a href='https://github.com/{{ stargazer.login }}'>{{ stargazer.name }}</a> starred - <a href='{{ stargazer.project_url }}'>Dineshkarthik/{{ stargazer.project_name }}</a>
-
-{{ stargazer.bio }}
-
-<h2></h2>
-{% endfor %}
-
-
-
-
-<table cellpadding="0" cellspacing="0" width="100%" text-align="center">
-<tr>
-{% for stargazer in stargazers %}
-  {% if loop.index not in [4,7,10] %}
-  <td padding-bottom= "20px">
-    <a href='https://github.com/{{ stargazer.login }}'>{{ stargazer.name }}</a> starred - <a href='{{ stargazer.project_url }}'> Dineshkarthik/{{ stargazer.project_name }} </a></br>
-    <img src="{{ stargazer.avatar }}"  width="100" height="100" align="center"/></br>
-    {{ stargazer.bio }}
-  </td>
-  {% else %}
-  </tr>
-  <tr>
-  <td padding-bottom= "20px">
-    <a href='https://github.com/{{ stargazer.login }}'>{{ stargazer.name }}</a> starred - <a href='{{ stargazer.project_url }}'> Dineshkarthik/{{ stargazer.project_name }} </a></br>
-    <img src="{{ stargazer.avatar }}"  width="100" height="100" align="center"/></br>
-    {{ stargazer.bio }}
-  </td>
-  {% endif %}
-{% endfor %}
-</tr>
+<table cellspacing="0" cellpadding="0" style="border: none;">
+  <tbody cellspacing="0" cellpadding="0" style="border: none;">
+    {% for stargazer in stargazers -%}
+    <tr style="border: none;">
+      <td style="border: none">
+        <a href="https://github.com/{{ stargazer.login }}">
+          <img
+            style="border-radius: 50%;"
+            align="left"
+            src="{{ stargazer.avatar }}"
+            width="96"
+            height="65"
+          />
+        </a>
+      </td>
+      <td style="border: none">
+        <div>
+          <a href="https://github.com/{{ stargazer.login }}">{{ stargazer.name }}</a> 
+          starred <a href="{{ stargazer.project_url }}">{{ stargazer.project_name }}</a>
+        </div>
+        <div>
+          User Bio: {{ stargazer.bio }}
+        </div>
+      </td>
+    </tr>
+    {% endfor %}
+  </tbody>
 </table>
