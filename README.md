@@ -34,6 +34,28 @@ I build and maintain optimized, scalable and highly available **data pipelines**
   <tbody cellspacing="0" cellpadding="0" style="border: none;">
     <tr style="border: none;">
       <td style="border: none">
+        <a href="https://github.com/mishailovic">
+          <img
+            style="border-radius: 50%;"
+            align="left"
+            src="https://avatars0.githubusercontent.com/u/41520056?u=7deed689d8f523ffaa35e3612d370310d097b66c&v=4"
+            width="96"
+            height="65"
+          />
+        </a>
+      </td>
+      <td style="border: none">
+        <div>
+          <a href="https://github.com/mishailovic">Mikhail Kuznetsov</a> 
+          starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
+        </div>
+        <div>
+          User Bio: Forking repos, fixing bugs. Everything as usual...
+        </div>
+      </td>
+    </tr>
+    <tr style="border: none;">
+      <td style="border: none">
         <a href="https://github.com/asjdf">
           <img
             style="border-radius: 50%;"
@@ -224,28 +246,6 @@ I build and maintain optimized, scalable and highly available **data pipelines**
         <div>
           <a href="https://github.com/sheldoncoupeheure">incognitomode</a> 
           starred <a href="https://github.com/Dineshkarthik/Send2Kindle">Send2Kindle</a>
-        </div>
-        <div>
-          User Bio: Nothing to 👀 here , no bio...!!
-        </div>
-      </td>
-    </tr>
-    <tr style="border: none;">
-      <td style="border: none">
-        <a href="https://github.com/covein">
-          <img
-            style="border-radius: 50%;"
-            align="left"
-            src="https://avatars0.githubusercontent.com/u/33390260?u=59a979f59201fffae0a9dc771cea328b0ea9cf41&v=4"
-            width="96"
-            height="65"
-          />
-        </a>
-      </td>
-      <td style="border: none">
-        <div>
-          <a href="https://github.com/covein">Josh Fix</a> 
-          starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
         </div>
         <div>
           User Bio: Nothing to 👀 here , no bio...!!
