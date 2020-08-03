@@ -34,6 +34,28 @@ I build and maintain optimized, scalable and highly available **data pipelines**
   <tbody cellspacing="0" cellpadding="0" style="border: none;">
     <tr style="border: none;">
       <td style="border: none">
+        <a href="https://github.com/ro6ley">
+          <img
+            style="border-radius: 50%;"
+            align="left"
+            src="https://avatars0.githubusercontent.com/u/8082197?u=19aa1f5a36240070ae9708ab8c3d268c1167d570&v=4"
+            width="96"
+            height="65"
+          />
+        </a>
+      </td>
+      <td style="border: none">
+        <div>
+          <a href="https://github.com/ro6ley">Robley Gori</a> 
+          starred <a href="https://github.com/Dineshkarthik/codility_training">codility_training</a>
+        </div>
+        <div>
+          User Bio: Sometimes I hunt for typos on restaurant menus, at other times I play drums for the band in my head. Mostly, I'm building components for the internet.
+        </div>
+      </td>
+    </tr>
+    <tr style="border: none;">
+      <td style="border: none">
         <a href="https://github.com/mishailovic">
           <img
             style="border-radius: 50%;"
@@ -224,28 +246,6 @@ I build and maintain optimized, scalable and highly available **data pipelines**
         <div>
           <a href="https://github.com/ricafolio">Rica Mae O.</a> 
           starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
-        </div>
-        <div>
-          User Bio: Nothing to 👀 here , no bio...!!
-        </div>
-      </td>
-    </tr>
-    <tr style="border: none;">
-      <td style="border: none">
-        <a href="https://github.com/sheldoncoupeheure">
-          <img
-            style="border-radius: 50%;"
-            align="left"
-            src="https://avatars2.githubusercontent.com/u/13921610?u=5cd1c11e3b98e26faa7ab11e547acb8b0f872493&v=4"
-            width="96"
-            height="65"
-          />
-        </a>
-      </td>
-      <td style="border: none">
-        <div>
-          <a href="https://github.com/sheldoncoupeheure">incognitomode</a> 
-          starred <a href="https://github.com/Dineshkarthik/Send2Kindle">Send2Kindle</a>
         </div>
         <div>
           User Bio: Nothing to 👀 here , no bio...!!
