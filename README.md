@@ -34,6 +34,28 @@ I build and maintain optimized, scalable and highly available **data pipelines**
   <tbody cellspacing="0" cellpadding="0" style="border: none;">
     <tr style="border: none;">
       <td style="border: none">
+        <a href="https://github.com/JP-MRPhys">
+          <img
+            style="border-radius: 50%;"
+            align="left"
+            src="https://avatars0.githubusercontent.com/u/10104388?u=20f0a9f0e5b6b385f1ebea252990d58ade0ff1f0&v=4"
+            width="96"
+            height="65"
+          />
+        </a>
+      </td>
+      <td style="border: none">
+        <div>
+          <a href="https://github.com/JP-MRPhys">Jehill Parikh</a> 
+          starred <a href="https://github.com/Dineshkarthik/codility_training">codility_training</a>
+        </div>
+        <div>
+          User Bio: Nothing to 👀 here , no bio...!!
+        </div>
+      </td>
+    </tr>
+    <tr style="border: none;">
+      <td style="border: none">
         <a href="https://github.com/ali1rathore">
           <img
             style="border-radius: 50%;"
@@ -227,28 +249,6 @@ I build and maintain optimized, scalable and highly available **data pipelines**
         </div>
         <div>
           User Bio: I'm Fine.
-        </div>
-      </td>
-    </tr>
-    <tr style="border: none;">
-      <td style="border: none">
-        <a href="https://github.com/AbdulMalikDev">
-          <img
-            style="border-radius: 50%;"
-            align="left"
-            src="https://avatars0.githubusercontent.com/u/47276307?u=4613bd5ab2c83b563a672887dc1b320db99f3f09&v=4"
-            width="96"
-            height="65"
-          />
-        </a>
-      </td>
-      <td style="border: none">
-        <div>
-          <a href="https://github.com/AbdulMalikDev">Abdul Malik</a> 
-          starred <a href="https://github.com/Dineshkarthik/Whatsapp-analyzer">Whatsapp-analyzer</a>
-        </div>
-        <div>
-          User Bio: Love to convert thoughts into code
         </div>
       </td>
     </tr>
