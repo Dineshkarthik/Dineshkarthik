@@ -34,6 +34,28 @@ I build and maintain optimized, scalable and highly available **data pipelines**
   <tbody cellspacing="0" cellpadding="0" style="border: none;">
     <tr style="border: none;">
       <td style="border: none">
+        <a href="https://github.com/idodd100">
+          <img
+            style="border-radius: 50%;"
+            align="left"
+            src="https://avatars2.githubusercontent.com/u/65268811?v=4"
+            width="96"
+            height="65"
+          />
+        </a>
+      </td>
+      <td style="border: none">
+        <div>
+          <a href="https://github.com/idodd100">idodd100</a> 
+          starred <a href="https://github.com/Dineshkarthik/codility_training">codility_training</a>
+        </div>
+        <div>
+          User Bio: Nothing to 👀 here , no bio...!!
+        </div>
+      </td>
+    </tr>
+    <tr style="border: none;">
+      <td style="border: none">
         <a href="https://github.com/silente">
           <img
             style="border-radius: 50%;"
@@ -224,28 +246,6 @@ I build and maintain optimized, scalable and highly available **data pipelines**
         <div>
           <a href="https://github.com/BalaVenkat29">BalaVenkat29</a> 
           starred <a href="https://github.com/Dineshkarthik/Whatsapp-analyzer">Whatsapp-analyzer</a>
-        </div>
-        <div>
-          User Bio: Nothing to 👀 here , no bio...!!
-        </div>
-      </td>
-    </tr>
-    <tr style="border: none;">
-      <td style="border: none">
-        <a href="https://github.com/BalajiChandran2494">
-          <img
-            style="border-radius: 50%;"
-            align="left"
-            src="https://avatars0.githubusercontent.com/u/68539473?v=4"
-            width="96"
-            height="65"
-          />
-        </a>
-      </td>
-      <td style="border: none">
-        <div>
-          <a href="https://github.com/BalajiChandran2494">BalajiChandran2494</a> 
-          starred <a href="https://github.com/Dineshkarthik/codility_training">codility_training</a>
         </div>
         <div>
           User Bio: Nothing to 👀 here , no bio...!!
