@@ -117,6 +117,7 @@ I build and maintain optimized, scalable and highly available **data pipelines**
         </div>
         <div>
           User Bio: Pythonista, Automator, Engineer
+
         </div>
       </td>
     </tr>
