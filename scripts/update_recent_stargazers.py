@@ -11,7 +11,7 @@ url: str = "https://api.github.com/graphql"
 query: str = """
 {
   user(login: "Dineshkarthik") {
-    repositories(first: 20, isFork: false, isLocked: false, privacy: PUBLIC) {
+    repositories(first: 30, isFork: false, isLocked: false, privacy: PUBLIC) {
       totalCount
       nodes {
         stargazers(orderBy: {field: STARRED_AT, direction: DESC}, first: 10) {
@@ -32,7 +32,6 @@ query: str = """
     }
   }
 }
-
 """
 
 
