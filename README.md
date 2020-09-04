@@ -34,6 +34,28 @@ I build and maintain optimized, scalable and highly available **data pipelines**
   <tbody cellspacing="0" cellpadding="0" style="border: none;">
     <tr style="border: none;">
       <td style="border: none">
+        <a href="https://github.com/muge13">
+          <img
+            style="border-radius: 50%;"
+            align="left"
+            src="https://avatars2.githubusercontent.com/u/13362741?u=993e9f8c5dec72dfd922b775c5575f9c9805ce99&v=4"
+            width="96"
+            height="65"
+          />
+        </a>
+      </td>
+      <td style="border: none">
+        <div>
+          <a href="https://github.com/muge13">Ian Muge</a> 
+          starred <a href="https://github.com/Dineshkarthik/real-time-IoT-data-streaming">real-time-IoT-data-streaming</a>
+        </div>
+        <div>
+          User Bio: Nothing to 👀 here , no bio...!!
+        </div>
+      </td>
+    </tr>
+    <tr style="border: none;">
+      <td style="border: none">
         <a href="https://github.com/skyme5">
           <img
             style="border-radius: 50%;"
@@ -73,6 +95,29 @@ I build and maintain optimized, scalable and highly available **data pipelines**
         </div>
         <div>
           User Bio: Nothing to 👀 here , no bio...!!
+        </div>
+      </td>
+    </tr>
+    <tr style="border: none;">
+      <td style="border: none">
+        <a href="https://github.com/mmphego">
+          <img
+            style="border-radius: 50%;"
+            align="left"
+            src="https://avatars1.githubusercontent.com/u/7910856?u=34f977f5b9caa6e679fcd95dd2d4ece77f531a04&v=4"
+            width="96"
+            height="65"
+          />
+        </a>
+      </td>
+      <td style="border: none">
+        <div>
+          <a href="https://github.com/mmphego">Mpho Mphego</a> 
+          starred <a href="https://github.com/Dineshkarthik/real-time-IoT-data-streaming">real-time-IoT-data-streaming</a>
+        </div>
+        <div>
+          User Bio: Pythonista, Automator, Engineer
+
         </div>
       </td>
     </tr>
@@ -205,50 +250,6 @@ I build and maintain optimized, scalable and highly available **data pipelines**
         </div>
         <div>
           User Bio: Nothing to 👀 here , no bio...!!
-        </div>
-      </td>
-    </tr>
-    <tr style="border: none;">
-      <td style="border: none">
-        <a href="https://github.com/aprakash9">
-          <img
-            style="border-radius: 50%;"
-            align="left"
-            src="https://avatars2.githubusercontent.com/u/45340018?v=4"
-            width="96"
-            height="65"
-          />
-        </a>
-      </td>
-      <td style="border: none">
-        <div>
-          <a href="https://github.com/aprakash9">aprakash9</a> 
-          starred <a href="https://github.com/Dineshkarthik/HackerRank">HackerRank</a>
-        </div>
-        <div>
-          User Bio: Nothing to 👀 here , no bio...!!
-        </div>
-      </td>
-    </tr>
-    <tr style="border: none;">
-      <td style="border: none">
-        <a href="https://github.com/ro6ley">
-          <img
-            style="border-radius: 50%;"
-            align="left"
-            src="https://avatars0.githubusercontent.com/u/8082197?u=19aa1f5a36240070ae9708ab8c3d268c1167d570&v=4"
-            width="96"
-            height="65"
-          />
-        </a>
-      </td>
-      <td style="border: none">
-        <div>
-          <a href="https://github.com/ro6ley">Robley Gori</a> 
-          starred <a href="https://github.com/Dineshkarthik/codility_training">codility_training</a>
-        </div>
-        <div>
-          User Bio: Sometimes I hunt for typos on restaurant menus, at other times I play drums for the band in my head. Mostly, I'm building components for the internet.
         </div>
       </td>
     </tr>
