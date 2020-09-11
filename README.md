@@ -34,6 +34,28 @@ I build and maintain optimized, scalable and highly available **data pipelines**
   <tbody cellspacing="0" cellpadding="0" style="border: none;">
     <tr style="border: none;">
       <td style="border: none">
+        <a href="https://github.com/longle255">
+          <img
+            style="border-radius: 50%;"
+            align="left"
+            src="https://avatars3.githubusercontent.com/u/1115749?u=931e169cd8eb881be6910c28a6eb2da6cbf6406d&v=4"
+            width="96"
+            height="65"
+          />
+        </a>
+      </td>
+      <td style="border: none">
+        <div>
+          <a href="https://github.com/longle255">Long Hoang Le</a> 
+          starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
+        </div>
+        <div>
+          User Bio: Nothing to 👀 here , no bio...!!
+        </div>
+      </td>
+    </tr>
+    <tr style="border: none;">
+      <td style="border: none">
         <a href="https://github.com/hongbaotong">
           <img
             style="border-radius: 50%;"
@@ -224,28 +246,6 @@ I build and maintain optimized, scalable and highly available **data pipelines**
         <div>
           <a href="https://github.com/femueller">Felix Mueller</a> 
           starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
-        </div>
-        <div>
-          User Bio: Nothing to 👀 here , no bio...!!
-        </div>
-      </td>
-    </tr>
-    <tr style="border: none;">
-      <td style="border: none">
-        <a href="https://github.com/JP-MRPhys">
-          <img
-            style="border-radius: 50%;"
-            align="left"
-            src="https://avatars0.githubusercontent.com/u/10104388?u=20f0a9f0e5b6b385f1ebea252990d58ade0ff1f0&v=4"
-            width="96"
-            height="65"
-          />
-        </a>
-      </td>
-      <td style="border: none">
-        <div>
-          <a href="https://github.com/JP-MRPhys">Jehill Parikh</a> 
-          starred <a href="https://github.com/Dineshkarthik/codility_training">codility_training</a>
         </div>
         <div>
           User Bio: Nothing to 👀 here , no bio...!!
