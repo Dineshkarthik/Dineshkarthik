@@ -34,6 +34,28 @@ I build and maintain optimized, scalable and highly available **data pipelines**
   <tbody cellspacing="0" cellpadding="0" style="border: none;">
     <tr style="border: none;">
       <td style="border: none">
+        <a href="https://github.com/tae2089">
+          <img
+            style="border-radius: 50%;"
+            align="left"
+            src="https://avatars1.githubusercontent.com/u/43431864?v=4"
+            width="96"
+            height="65"
+          />
+        </a>
+      </td>
+      <td style="border: none">
+        <div>
+          <a href="https://github.com/tae2089">tae2089</a> 
+          starred <a href="https://github.com/Dineshkarthik/real-time-IoT-data-streaming">real-time-IoT-data-streaming</a>
+        </div>
+        <div>
+          User Bio: Nothing to 👀 here , no bio...!!
+        </div>
+      </td>
+    </tr>
+    <tr style="border: none;">
+      <td style="border: none">
         <a href="https://github.com/vaishalidevanand">
           <img
             style="border-radius: 50%;"
@@ -228,28 +250,6 @@ IIT Kharagpur
         </div>
         <div>
           User Bio: Nothing to 👀 here , no bio...!!
-        </div>
-      </td>
-    </tr>
-    <tr style="border: none;">
-      <td style="border: none">
-        <a href="https://github.com/mmphego">
-          <img
-            style="border-radius: 50%;"
-            align="left"
-            src="https://avatars1.githubusercontent.com/u/7910856?u=34f977f5b9caa6e679fcd95dd2d4ece77f531a04&v=4"
-            width="96"
-            height="65"
-          />
-        </a>
-      </td>
-      <td style="border: none">
-        <div>
-          <a href="https://github.com/mmphego">Mpho Mphego</a> 
-          starred <a href="https://github.com/Dineshkarthik/real-time-IoT-data-streaming">real-time-IoT-data-streaming</a>
-        </div>
-        <div>
-          User Bio: Pythonista, Automator, Engineer
         </div>
       </td>
     </tr>
