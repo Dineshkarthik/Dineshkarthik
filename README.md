@@ -34,6 +34,28 @@ I build and maintain optimized, scalable and highly available **data pipelines**
   <tbody cellspacing="0" cellpadding="0" style="border: none;">
     <tr style="border: none;">
       <td style="border: none">
+        <a href="https://github.com/telegrambotdev">
+          <img
+            style="border-radius: 50%;"
+            align="left"
+            src="https://avatars2.githubusercontent.com/u/20116017?u=f2bc0b5ba6353b02ba03ce471a36d56d6b3200cc&v=4"
+            width="96"
+            height="65"
+          />
+        </a>
+      </td>
+      <td style="border: none">
+        <div>
+          <a href="https://github.com/telegrambotdev">NOOB BOTS</a> 
+          starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
+        </div>
+        <div>
+          User Bio: I am a silly Noob Who love Codes & Hacks :)
+        </div>
+      </td>
+    </tr>
+    <tr style="border: none;">
+      <td style="border: none">
         <a href="https://github.com/tae2089">
           <img
             style="border-radius: 50%;"
@@ -228,28 +250,6 @@ IIT Kharagpur
         </div>
         <div>
           User Bio: A Physics Scholar and Software Developer.
-        </div>
-      </td>
-    </tr>
-    <tr style="border: none;">
-      <td style="border: none">
-        <a href="https://github.com/ChanucyHe">
-          <img
-            style="border-radius: 50%;"
-            align="left"
-            src="https://avatars2.githubusercontent.com/u/26815739?v=4"
-            width="96"
-            height="65"
-          />
-        </a>
-      </td>
-      <td style="border: none">
-        <div>
-          <a href="https://github.com/ChanucyHe">ChanucyHe</a> 
-          starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
-        </div>
-        <div>
-          User Bio: Nothing to 👀 here , no bio...!!
         </div>
       </td>
     </tr>
