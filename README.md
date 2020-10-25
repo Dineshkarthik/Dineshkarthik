@@ -34,6 +34,28 @@ I build and maintain optimized, scalable and highly available **data pipelines**
   <tbody cellspacing="0" cellpadding="0" style="border: none;">
     <tr style="border: none;">
       <td style="border: none">
+        <a href="https://github.com/1337C0D3RS">
+          <img
+            style="border-radius: 50%;"
+            align="left"
+            src="https://avatars3.githubusercontent.com/u/51872799?v=4"
+            width="96"
+            height="65"
+          />
+        </a>
+      </td>
+      <td style="border: none">
+        <div>
+          <a href="https://github.com/1337C0D3RS">1337C0D3RS</a> 
+          starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
+        </div>
+        <div>
+          User Bio: Nothing to 👀 here , no bio...!!
+        </div>
+      </td>
+    </tr>
+    <tr style="border: none;">
+      <td style="border: none">
         <a href="https://github.com/telegrambotdev">
           <img
             style="border-radius: 50%;"
@@ -228,28 +250,6 @@ IIT Kharagpur
         </div>
         <div>
           User Bio: Nothing to 👀 here , no bio...!!
-        </div>
-      </td>
-    </tr>
-    <tr style="border: none;">
-      <td style="border: none">
-        <a href="https://github.com/skyme5">
-          <img
-            style="border-radius: 50%;"
-            align="left"
-            src="https://avatars1.githubusercontent.com/u/15525399?u=d19a50043de49c2c7b89fce712d35a1d61502a77&v=4"
-            width="96"
-            height="65"
-          />
-        </a>
-      </td>
-      <td style="border: none">
-        <div>
-          <a href="https://github.com/skyme5">Aakash Gajjar</a> 
-          starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
-        </div>
-        <div>
-          User Bio: A Physics Scholar and Software Developer.
         </div>
       </td>
     </tr>
