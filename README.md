@@ -34,6 +34,28 @@ I build and maintain optimized, scalable and highly available **data pipelines**
   <tbody cellspacing="0" cellpadding="0" style="border: none;">
     <tr style="border: none;">
       <td style="border: none">
+        <a href="https://github.com/hwmbing11">
+          <img
+            style="border-radius: 50%;"
+            align="left"
+            src="https://avatars1.githubusercontent.com/u/63941939?v=4"
+            width="96"
+            height="65"
+          />
+        </a>
+      </td>
+      <td style="border: none">
+        <div>
+          <a href="https://github.com/hwmbing11">hwmbing11</a> 
+          starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
+        </div>
+        <div>
+          User Bio: Nothing to 👀 here , no bio...!!
+        </div>
+      </td>
+    </tr>
+    <tr style="border: none;">
+      <td style="border: none">
         <a href="https://github.com/1337C0D3RS">
           <img
             style="border-radius: 50%;"
@@ -225,28 +247,6 @@ IIT Kharagpur
         <div>
           <a href="https://github.com/hongbaotong">Hong</a> 
           starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
-        </div>
-        <div>
-          User Bio: Nothing to 👀 here , no bio...!!
-        </div>
-      </td>
-    </tr>
-    <tr style="border: none;">
-      <td style="border: none">
-        <a href="https://github.com/muge13">
-          <img
-            style="border-radius: 50%;"
-            align="left"
-            src="https://avatars2.githubusercontent.com/u/13362741?u=993e9f8c5dec72dfd922b775c5575f9c9805ce99&v=4"
-            width="96"
-            height="65"
-          />
-        </a>
-      </td>
-      <td style="border: none">
-        <div>
-          <a href="https://github.com/muge13">Ian Muge</a> 
-          starred <a href="https://github.com/Dineshkarthik/real-time-IoT-data-streaming">real-time-IoT-data-streaming</a>
         </div>
         <div>
           User Bio: Nothing to 👀 here , no bio...!!
