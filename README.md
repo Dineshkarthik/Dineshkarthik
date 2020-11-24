@@ -34,6 +34,28 @@ I build and maintain optimized, scalable and highly available **data pipelines**
   <tbody cellspacing="0" cellpadding="0" style="border: none;">
     <tr style="border: none;">
       <td style="border: none">
+        <a href="https://github.com/daehee">
+          <img
+            style="border-radius: 50%;"
+            align="left"
+            src="https://avatars1.githubusercontent.com/u/81271?u=6927517d08e9353c2169f732a961036d09002e83&v=4"
+            width="96"
+            height="65"
+          />
+        </a>
+      </td>
+      <td style="border: none">
+        <div>
+          <a href="https://github.com/daehee">Daehee</a> 
+          starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
+        </div>
+        <div>
+          User Bio: Nothing to 👀 here , no bio...!!
+        </div>
+      </td>
+    </tr>
+    <tr style="border: none;">
+      <td style="border: none">
         <a href="https://github.com/Bo0oM">
           <img
             style="border-radius: 50%;"
@@ -227,29 +249,6 @@ I build and maintain optimized, scalable and highly available **data pipelines**
         </div>
         <div>
           User Bio: Nothing to 👀 here , no bio...!!
-        </div>
-      </td>
-    </tr>
-    <tr style="border: none;">
-      <td style="border: none">
-        <a href="https://github.com/vaishalidevanand">
-          <img
-            style="border-radius: 50%;"
-            align="left"
-            src="https://avatars3.githubusercontent.com/u/8274169?u=de1c67fe363067bef09c9e762b2b89107986ea2f&v=4"
-            width="96"
-            height="65"
-          />
-        </a>
-      </td>
-      <td style="border: none">
-        <div>
-          <a href="https://github.com/vaishalidevanand">Vaishali HD</a> 
-          starred <a href="https://github.com/Dineshkarthik/codility_training">codility_training</a>
-        </div>
-        <div>
-          User Bio: MFE @ Columbia,
-IIT Kharagpur
         </div>
       </td>
     </tr>
