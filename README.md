@@ -34,6 +34,28 @@ I build and maintain optimized, scalable and highly available **data pipelines**
   <tbody cellspacing="0" cellpadding="0" style="border: none;">
     <tr style="border: none;">
       <td style="border: none">
+        <a href="https://github.com/khaleeljageer">
+          <img
+            style="border-radius: 50%;"
+            align="left"
+            src="https://avatars2.githubusercontent.com/u/28587143?u=9da658b93c0300d86ab816e0f29670ffddf9cf80&v=4"
+            width="96"
+            height="65"
+          />
+        </a>
+      </td>
+      <td style="border: none">
+        <div>
+          <a href="https://github.com/khaleeljageer">Khaleel Jageer</a> 
+          starred <a href="https://github.com/Dineshkarthik/wiki-user-contributions">wiki-user-contributions</a>
+        </div>
+        <div>
+          User Bio: Free software activist - mobile app developer - public speaker - mozilla Rep
+        </div>
+      </td>
+    </tr>
+    <tr style="border: none;">
+      <td style="border: none">
         <a href="https://github.com/daehee">
           <img
             style="border-radius: 50%;"
@@ -227,28 +249,6 @@ I build and maintain optimized, scalable and highly available **data pipelines**
         </div>
         <div>
           User Bio: I am a silly Noob Who love Codes & Hacks :)
-        </div>
-      </td>
-    </tr>
-    <tr style="border: none;">
-      <td style="border: none">
-        <a href="https://github.com/tae2089">
-          <img
-            style="border-radius: 50%;"
-            align="left"
-            src="https://avatars1.githubusercontent.com/u/43431864?v=4"
-            width="96"
-            height="65"
-          />
-        </a>
-      </td>
-      <td style="border: none">
-        <div>
-          <a href="https://github.com/tae2089">tae2089</a> 
-          starred <a href="https://github.com/Dineshkarthik/real-time-IoT-data-streaming">real-time-IoT-data-streaming</a>
-        </div>
-        <div>
-          User Bio: Nothing to 👀 here , no bio...!!
         </div>
       </td>
     </tr>
