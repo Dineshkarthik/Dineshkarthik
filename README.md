@@ -34,6 +34,28 @@ I build and maintain optimized, scalable and highly available **data pipelines**
   <tbody cellspacing="0" cellpadding="0" style="border: none;">
     <tr style="border: none;">
       <td style="border: none">
+        <a href="https://github.com/cs-chandu">
+          <img
+            style="border-radius: 50%;"
+            align="left"
+            src="https://avatars3.githubusercontent.com/u/17685818?u=1e7f23edc55ff7d6d051e0411a85ca8da0acd769&v=4"
+            width="96"
+            height="65"
+          />
+        </a>
+      </td>
+      <td style="border: none">
+        <div>
+          <a href="https://github.com/cs-chandu">Chandrasekhar Anem</a> 
+          starred <a href="https://github.com/Dineshkarthik/Whatsapp-analyzer">Whatsapp-analyzer</a>
+        </div>
+        <div>
+          User Bio: Data Engineer & Analytics, AWS
+        </div>
+      </td>
+    </tr>
+    <tr style="border: none;">
+      <td style="border: none">
         <a href="https://github.com/AndryGamingYT">
           <img
             style="border-radius: 50%;"
@@ -223,28 +245,6 @@ I build and maintain optimized, scalable and highly available **data pipelines**
       <td style="border: none">
         <div>
           <a href="https://github.com/hwmbing11">hwmbing11</a> 
-          starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
-        </div>
-        <div>
-          User Bio: Nothing to 👀 here , no bio...!!
-        </div>
-      </td>
-    </tr>
-    <tr style="border: none;">
-      <td style="border: none">
-        <a href="https://github.com/1337C0D3RS">
-          <img
-            style="border-radius: 50%;"
-            align="left"
-            src="https://avatars3.githubusercontent.com/u/51872799?v=4"
-            width="96"
-            height="65"
-          />
-        </a>
-      </td>
-      <td style="border: none">
-        <div>
-          <a href="https://github.com/1337C0D3RS">1337C0D3RS</a> 
           starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
         </div>
         <div>
