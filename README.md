@@ -34,6 +34,29 @@ I build and maintain optimized, scalable and highly available **data pipelines**
   <tbody cellspacing="0" cellpadding="0" style="border: none;">
     <tr style="border: none;">
       <td style="border: none">
+        <a href="https://github.com/vinjatovix">
+          <img
+            style="border-radius: 50%;"
+            align="left"
+            src="https://avatars1.githubusercontent.com/u/63653916?u=55017a7a4eb6481233221d2af6496356b3523860&v=4"
+            width="96"
+            height="65"
+          />
+        </a>
+      </td>
+      <td style="border: none">
+        <div>
+          <a href="https://github.com/vinjatovix">Vinjatovix Imanub</a> 
+          starred <a href="https://github.com/Dineshkarthik/Dineshkarthik">Dineshkarthik</a>
+        </div>
+        <div>
+          User Bio: 
+    Galicia based sound engineer
+        </div>
+      </td>
+    </tr>
+    <tr style="border: none;">
+      <td style="border: none">
         <a href="https://github.com/RDS321">
           <img
             style="border-radius: 50%;"
@@ -227,28 +250,6 @@ I build and maintain optimized, scalable and highly available **data pipelines**
         </div>
         <div>
           User Bio: Free software activist - mobile app developer - public speaker - mozilla Rep
-        </div>
-      </td>
-    </tr>
-    <tr style="border: none;">
-      <td style="border: none">
-        <a href="https://github.com/daehee">
-          <img
-            style="border-radius: 50%;"
-            align="left"
-            src="https://avatars1.githubusercontent.com/u/81271?u=6927517d08e9353c2169f732a961036d09002e83&v=4"
-            width="96"
-            height="65"
-          />
-        </a>
-      </td>
-      <td style="border: none">
-        <div>
-          <a href="https://github.com/daehee">Daehee</a> 
-          starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
-        </div>
-        <div>
-          User Bio: Nothing to 👀 here , no bio...!!
         </div>
       </td>
     </tr>
