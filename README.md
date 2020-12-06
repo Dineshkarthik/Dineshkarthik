@@ -119,7 +119,7 @@ I build and maintain optimized, scalable and highly available **data pipelines**
           starred <a href="https://github.com/Dineshkarthik/codility_training">codility_training</a>
         </div>
         <div>
-          User Bio: I am a Senior Software Engineer - DevOps, I enjoy being challenged and engaging with projects that require me to work outside my comfort and knowledge set
+          User Bio: I am a Software Engineer Lead - DevOps, I enjoy being challenged and engaging with projects that require me to work outside my comfort and knowledge set.
         </div>
       </td>
     </tr>
