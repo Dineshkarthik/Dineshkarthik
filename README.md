@@ -34,6 +34,30 @@ I build and maintain optimized, scalable and highly available **data pipelines**
   <tbody cellspacing="0" cellpadding="0" style="border: none;">
     <tr style="border: none;">
       <td style="border: none">
+        <a href="https://github.com/leandrosimoes">
+          <img
+            style="border-radius: 50%;"
+            align="left"
+            src="https://avatars1.githubusercontent.com/u/5066378?u=98d81da11220a6d0f7f51532e2c3e949b50a445b&v=4"
+            width="96"
+            height="65"
+          />
+        </a>
+      </td>
+      <td style="border: none">
+        <div>
+          <a href="https://github.com/leandrosimoes">Leandro Simões </a> 
+          starred <a href="https://github.com/Dineshkarthik/Dineshkarthik">Dineshkarthik</a>
+        </div>
+        <div>
+          User Bio: Software Engineer @simplificaci, a code lover! See more at https://lesimoes.dev 
+
+👨‍💻🖖👨‍🍳🎨🥁🍕🕹
+        </div>
+      </td>
+    </tr>
+    <tr style="border: none;">
+      <td style="border: none">
         <a href="https://github.com/vinjatovix">
           <img
             style="border-radius: 50%;"
@@ -228,28 +252,6 @@ I build and maintain optimized, scalable and highly available **data pipelines**
         </div>
         <div>
           User Bio: Nothing to 👀 here , no bio...!!
-        </div>
-      </td>
-    </tr>
-    <tr style="border: none;">
-      <td style="border: none">
-        <a href="https://github.com/khaleeljageer">
-          <img
-            style="border-radius: 50%;"
-            align="left"
-            src="https://avatars2.githubusercontent.com/u/28587143?u=9da658b93c0300d86ab816e0f29670ffddf9cf80&v=4"
-            width="96"
-            height="65"
-          />
-        </a>
-      </td>
-      <td style="border: none">
-        <div>
-          <a href="https://github.com/khaleeljageer">Khaleel Jageer</a> 
-          starred <a href="https://github.com/Dineshkarthik/wiki-user-contributions">wiki-user-contributions</a>
-        </div>
-        <div>
-          User Bio: Free software activist - mobile app developer - public speaker - mozilla Rep
         </div>
       </td>
     </tr>
