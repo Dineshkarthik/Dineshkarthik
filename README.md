@@ -34,6 +34,28 @@ I build and maintain optimized, scalable and highly available **data pipelines**
   <tbody cellspacing="0" cellpadding="0" style="border: none;">
     <tr style="border: none;">
       <td style="border: none">
+        <a href="https://github.com/pedrolemoz">
+          <img
+            style="border-radius: 50%;"
+            align="left"
+            src="https://avatars3.githubusercontent.com/u/20285104?u=2a6da1d424744c4ca8d34d54499cfc86ea022a13&v=4"
+            width="96"
+            height="65"
+          />
+        </a>
+      </td>
+      <td style="border: none">
+        <div>
+          <a href="https://github.com/pedrolemoz">Pedro Lemos</a> 
+          starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
+        </div>
+        <div>
+          User Bio: Software Engineer Jr. at MusicPlayce. Computer Science student at IFCE.
+        </div>
+      </td>
+    </tr>
+    <tr style="border: none;">
+      <td style="border: none">
         <a href="https://github.com/irvingmao9225">
           <img
             style="border-radius: 50%;"
@@ -230,28 +252,6 @@ I build and maintain optimized, scalable and highly available **data pipelines**
         </div>
         <div>
           User Bio: I am a Software Engineer Lead - DevOps, I enjoy being challenged and engaging with projects that require me to work outside my comfort and knowledge set.
-        </div>
-      </td>
-    </tr>
-    <tr style="border: none;">
-      <td style="border: none">
-        <a href="https://github.com/alvipranandha">
-          <img
-            style="border-radius: 50%;"
-            align="left"
-            src="https://avatars3.githubusercontent.com/u/44926627?u=8874429ed8889a35a07ba2ec679f4856d4144380&v=4"
-            width="96"
-            height="65"
-          />
-        </a>
-      </td>
-      <td style="border: none">
-        <div>
-          <a href="https://github.com/alvipranandha">alvipranandha</a> 
-          starred <a href="https://github.com/Dineshkarthik/Whatsapp-analyzer">Whatsapp-analyzer</a>
-        </div>
-        <div>
-          User Bio: Nothing to 👀 here , no bio...!!
         </div>
       </td>
     </tr>
