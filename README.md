@@ -34,6 +34,28 @@ I build and maintain optimized, scalable and highly available **data pipelines**
   <tbody cellspacing="0" cellpadding="0" style="border: none;">
     <tr style="border: none;">
       <td style="border: none">
+        <a href="https://github.com/Nitchi-weeb">
+          <img
+            style="border-radius: 50%;"
+            align="left"
+            src="https://avatars1.githubusercontent.com/u/74621496?v=4"
+            width="96"
+            height="65"
+          />
+        </a>
+      </td>
+      <td style="border: none">
+        <div>
+          <a href="https://github.com/Nitchi-weeb">Nitchi-weeb</a> 
+          starred <a href="https://github.com/Dineshkarthik/pinterest-telegram-bot">pinterest-telegram-bot</a>
+        </div>
+        <div>
+          User Bio: Nothing to 👀 here , no bio...!!
+        </div>
+      </td>
+    </tr>
+    <tr style="border: none;">
+      <td style="border: none">
         <a href="https://github.com/telegrambotdev">
           <img
             style="border-radius: 50%;"
@@ -94,8 +116,8 @@ I build and maintain optimized, scalable and highly available **data pipelines**
           starred <a href="https://github.com/Dineshkarthik/Dineshkarthik">Dineshkarthik</a>
         </div>
         <div>
-          User Bio: Autodidact💻📚, Code addict👨‍💻, I love to Create via Python,..  
-#Think♞& Code Faster⏱️, etc. 🎹 🔬BSc.Biochemistry, 🔬MSc.Toxicology🔬
+          User Bio: Autodidact💻📚, Code addict👨‍💻🦄, I love to Create via Python,..  
+#Think♞& Code Faster⏱️, etc. 🎹 _BSc.🔬Biochemistry,__MSc.🔬Toxicology!
         </div>
       </td>
     </tr>
@@ -230,29 +252,6 @@ I build and maintain optimized, scalable and highly available **data pipelines**
           User Bio: Software Engineer @simplificaci, a code lover! See more at https://lesimoes.dev 
 
 👨‍💻🖖👨‍🍳🎨🥁🍕🕹
-        </div>
-      </td>
-    </tr>
-    <tr style="border: none;">
-      <td style="border: none">
-        <a href="https://github.com/vinjatovix">
-          <img
-            style="border-radius: 50%;"
-            align="left"
-            src="https://avatars1.githubusercontent.com/u/63653916?u=55017a7a4eb6481233221d2af6496356b3523860&v=4"
-            width="96"
-            height="65"
-          />
-        </a>
-      </td>
-      <td style="border: none">
-        <div>
-          <a href="https://github.com/vinjatovix">Vinjatovix Imanub</a> 
-          starred <a href="https://github.com/Dineshkarthik/Dineshkarthik">Dineshkarthik</a>
-        </div>
-        <div>
-          User Bio: 
-    Galicia based sound engineer
         </div>
       </td>
     </tr>
