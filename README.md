@@ -34,6 +34,28 @@ I build and maintain optimized, scalable and highly available **data pipelines**
   <tbody cellspacing="0" cellpadding="0" style="border: none;">
     <tr style="border: none;">
       <td style="border: none">
+        <a href="https://github.com/ChiesiMario">
+          <img
+            style="border-radius: 50%;"
+            align="left"
+            src="https://avatars3.githubusercontent.com/u/30515222?u=1d2c9976dde84df24b87c57c3b8da35597e60e18&v=4"
+            width="96"
+            height="65"
+          />
+        </a>
+      </td>
+      <td style="border: none">
+        <div>
+          <a href="https://github.com/ChiesiMario">Chiesi Mario</a> 
+          starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
+        </div>
+        <div>
+          User Bio: Nothing to 👀 here , no bio...!!
+        </div>
+      </td>
+    </tr>
+    <tr style="border: none;">
+      <td style="border: none">
         <a href="https://github.com/Nitchi-weeb">
           <img
             style="border-radius: 50%;"
@@ -228,30 +250,6 @@ I build and maintain optimized, scalable and highly available **data pipelines**
         </div>
         <div>
           User Bio: Laziness, impatience and hubris.
-        </div>
-      </td>
-    </tr>
-    <tr style="border: none;">
-      <td style="border: none">
-        <a href="https://github.com/leandrosimoes">
-          <img
-            style="border-radius: 50%;"
-            align="left"
-            src="https://avatars1.githubusercontent.com/u/5066378?u=98d81da11220a6d0f7f51532e2c3e949b50a445b&v=4"
-            width="96"
-            height="65"
-          />
-        </a>
-      </td>
-      <td style="border: none">
-        <div>
-          <a href="https://github.com/leandrosimoes">Leandro Simões </a> 
-          starred <a href="https://github.com/Dineshkarthik/Dineshkarthik">Dineshkarthik</a>
-        </div>
-        <div>
-          User Bio: Software Engineer @simplificaci, a code lover! See more at https://lesimoes.dev 
-
-👨‍💻🖖👨‍🍳🎨🥁🍕🕹
         </div>
       </td>
     </tr>
