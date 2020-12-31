@@ -34,6 +34,28 @@ I build and maintain optimized, scalable and highly available **data pipelines**
   <tbody cellspacing="0" cellpadding="0" style="border: none;">
     <tr style="border: none;">
       <td style="border: none">
+        <a href="https://github.com/sav-valerio">
+          <img
+            style="border-radius: 50%;"
+            align="left"
+            src="https://avatars2.githubusercontent.com/u/14777542?u=11695a29b70211f71a22074b93eb8a732dfba307&v=4"
+            width="96"
+            height="65"
+          />
+        </a>
+      </td>
+      <td style="border: none">
+        <div>
+          <a href="https://github.com/sav-valerio">Saverio Valerio</a> 
+          starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
+        </div>
+        <div>
+          User Bio: Nothing to 👀 here , no bio...!!
+        </div>
+      </td>
+    </tr>
+    <tr style="border: none;">
+      <td style="border: none">
         <a href="https://github.com/yuyang1021">
           <img
             style="border-radius: 50%;"
@@ -228,28 +250,6 @@ I build and maintain optimized, scalable and highly available **data pipelines**
         <div>
           User Bio: Autodidact💻📚, Code addict👨‍💻🦄, I love to Create via Python,..  
 #Think♞& Code Faster⏱️, etc. 🎹 _BSc.🔬Biochemistry,__MSc.🔬Toxicology!
-        </div>
-      </td>
-    </tr>
-    <tr style="border: none;">
-      <td style="border: none">
-        <a href="https://github.com/pedrolemoz">
-          <img
-            style="border-radius: 50%;"
-            align="left"
-            src="https://avatars3.githubusercontent.com/u/20285104?u=2a6da1d424744c4ca8d34d54499cfc86ea022a13&v=4"
-            width="96"
-            height="65"
-          />
-        </a>
-      </td>
-      <td style="border: none">
-        <div>
-          <a href="https://github.com/pedrolemoz">Pedro Lemos</a> 
-          starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
-        </div>
-        <div>
-          User Bio: Software Engineer Jr. at MusicPlayce. Computer Science student at IFCE.
         </div>
       </td>
     </tr>
