@@ -34,6 +34,28 @@ I build and maintain optimized, scalable and highly available **data pipelines**
   <tbody cellspacing="0" cellpadding="0" style="border: none;">
     <tr style="border: none;">
       <td style="border: none">
+        <a href="https://github.com/Pirols">
+          <img
+            style="border-radius: 50%;"
+            align="left"
+            src="https://avatars0.githubusercontent.com/u/36996537?u=0b3c6978f1cbf68fe11fbce603eb9569d63912cf&v=4"
+            width="96"
+            height="65"
+          />
+        </a>
+      </td>
+      <td style="border: none">
+        <div>
+          <a href="https://github.com/Pirols">Edoardo Piroli</a> 
+          starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
+        </div>
+        <div>
+          User Bio: Computer Engineer | M.Sc. student in Artificial Intelligence and Robotics
+        </div>
+      </td>
+    </tr>
+    <tr style="border: none;">
+      <td style="border: none">
         <a href="https://github.com/badLABZ">
           <img
             style="border-radius: 50%;"
@@ -224,28 +246,6 @@ I build and maintain optimized, scalable and highly available **data pipelines**
         <div>
           <a href="https://github.com/hanung665">hanung665</a> 
           starred <a href="https://github.com/Dineshkarthik/real-time-IoT-data-streaming">real-time-IoT-data-streaming</a>
-        </div>
-        <div>
-          User Bio: Nothing to 👀 here , no bio...!!
-        </div>
-      </td>
-    </tr>
-    <tr style="border: none;">
-      <td style="border: none">
-        <a href="https://github.com/ChiesiMario">
-          <img
-            style="border-radius: 50%;"
-            align="left"
-            src="https://avatars3.githubusercontent.com/u/30515222?u=1d2c9976dde84df24b87c57c3b8da35597e60e18&v=4"
-            width="96"
-            height="65"
-          />
-        </a>
-      </td>
-      <td style="border: none">
-        <div>
-          <a href="https://github.com/ChiesiMario">Chiesi Mario</a> 
-          starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
         </div>
         <div>
           User Bio: Nothing to 👀 here , no bio...!!
