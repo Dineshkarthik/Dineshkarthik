@@ -34,6 +34,28 @@ I build and maintain optimized, scalable and highly available **data pipelines**
   <tbody cellspacing="0" cellpadding="0" style="border: none;">
     <tr style="border: none;">
       <td style="border: none">
+        <a href="https://github.com/oscarhhh">
+          <img
+            style="border-radius: 50%;"
+            align="left"
+            src="https://avatars3.githubusercontent.com/u/77631613?v=4"
+            width="96"
+            height="65"
+          />
+        </a>
+      </td>
+      <td style="border: none">
+        <div>
+          <a href="https://github.com/oscarhhh">oscarhhh</a> 
+          starred <a href="https://github.com/Dineshkarthik/codility_training">codility_training</a>
+        </div>
+        <div>
+          User Bio: Nothing to 👀 here , no bio...!!
+        </div>
+      </td>
+    </tr>
+    <tr style="border: none;">
+      <td style="border: none">
         <a href="https://github.com/SIvaCoHan">
           <img
             style="border-radius: 50%;"
@@ -229,28 +251,6 @@ I live in Serbia.
         </div>
         <div>
           User Bio: Student of Computer Engineering,  hardware passionate and occasional programmer
-        </div>
-      </td>
-    </tr>
-    <tr style="border: none;">
-      <td style="border: none">
-        <a href="https://github.com/Pirols">
-          <img
-            style="border-radius: 50%;"
-            align="left"
-            src="https://avatars0.githubusercontent.com/u/36996537?u=0b3c6978f1cbf68fe11fbce603eb9569d63912cf&v=4"
-            width="96"
-            height="65"
-          />
-        </a>
-      </td>
-      <td style="border: none">
-        <div>
-          <a href="https://github.com/Pirols">Edoardo Piroli</a> 
-          starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
-        </div>
-        <div>
-          User Bio: Computer Engineer | M.Sc. student in Artificial Intelligence and Robotics
         </div>
       </td>
     </tr>
