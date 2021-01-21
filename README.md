@@ -38,7 +38,7 @@ I build and maintain optimized, scalable and highly available **data pipelines**
           <img
             style="border-radius: 50%;"
             align="left"
-            src="https://avatars3.githubusercontent.com/u/77631613?v=4"
+            src="https://avatars.githubusercontent.com/u/77631613?v=4"
             width="96"
             height="65"
           />
@@ -60,7 +60,7 @@ I build and maintain optimized, scalable and highly available **data pipelines**
           <img
             style="border-radius: 50%;"
             align="left"
-            src="https://avatars0.githubusercontent.com/u/1344707?v=4"
+            src="https://avatars.githubusercontent.com/u/1344707?v=4"
             width="96"
             height="65"
           />
@@ -82,7 +82,7 @@ I build and maintain optimized, scalable and highly available **data pipelines**
           <img
             style="border-radius: 50%;"
             align="left"
-            src="https://avatars1.githubusercontent.com/u/56508684?v=4"
+            src="https://avatars.githubusercontent.com/u/56508684?v=4"
             width="96"
             height="65"
           />
@@ -104,7 +104,7 @@ I build and maintain optimized, scalable and highly available **data pipelines**
           <img
             style="border-radius: 50%;"
             align="left"
-            src="https://avatars1.githubusercontent.com/u/19970934?u=c2b80c9627c14edcc9d2d885d8bebe7fb4dae773&v=4"
+            src="https://avatars.githubusercontent.com/u/19970934?u=c2b80c9627c14edcc9d2d885d8bebe7fb4dae773&v=4"
             width="96"
             height="65"
           />
@@ -126,7 +126,7 @@ I build and maintain optimized, scalable and highly available **data pipelines**
           <img
             style="border-radius: 50%;"
             align="left"
-            src="https://avatars1.githubusercontent.com/u/13043245?u=d8a792673e23bb2fad29cdde25a45a60dda2db96&v=4"
+            src="https://avatars.githubusercontent.com/u/13043245?u=d8a792673e23bb2fad29cdde25a45a60dda2db96&v=4"
             width="96"
             height="65"
           />
@@ -148,7 +148,7 @@ I build and maintain optimized, scalable and highly available **data pipelines**
           <img
             style="border-radius: 50%;"
             align="left"
-            src="https://avatars2.githubusercontent.com/u/64962011?v=4"
+            src="https://avatars.githubusercontent.com/u/64962011?v=4"
             width="96"
             height="65"
           />
@@ -170,7 +170,7 @@ I build and maintain optimized, scalable and highly available **data pipelines**
           <img
             style="border-radius: 50%;"
             align="left"
-            src="https://avatars2.githubusercontent.com/u/39592566?u=460ee62689e8d59d2e12bfb30199b2e5c21cf8d8&v=4"
+            src="https://avatars.githubusercontent.com/u/39592566?u=460ee62689e8d59d2e12bfb30199b2e5c21cf8d8&v=4"
             width="96"
             height="65"
           />
@@ -192,7 +192,7 @@ I build and maintain optimized, scalable and highly available **data pipelines**
           <img
             style="border-radius: 50%;"
             align="left"
-            src="https://avatars3.githubusercontent.com/u/33455900?v=4"
+            src="https://avatars.githubusercontent.com/u/33455900?v=4"
             width="96"
             height="65"
           />
@@ -214,7 +214,7 @@ I build and maintain optimized, scalable and highly available **data pipelines**
           <img
             style="border-radius: 50%;"
             align="left"
-            src="https://avatars0.githubusercontent.com/u/28963303?v=4"
+            src="https://avatars.githubusercontent.com/u/28963303?v=4"
             width="96"
             height="65"
           />
@@ -238,7 +238,7 @@ I live in Serbia.
           <img
             style="border-radius: 50%;"
             align="left"
-            src="https://avatars2.githubusercontent.com/u/37424234?v=4"
+            src="https://avatars.githubusercontent.com/u/37424234?v=4"
             width="96"
             height="65"
           />
