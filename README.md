@@ -34,6 +34,28 @@ I build and maintain optimized, scalable and highly available **data pipelines**
   <tbody cellspacing="0" cellpadding="0" style="border: none;">
     <tr style="border: none;">
       <td style="border: none">
+        <a href="https://github.com/magicoflolis">
+          <img
+            style="border-radius: 50%;"
+            align="left"
+            src="https://avatars.githubusercontent.com/u/10752602?u=8a18d3dcaf2517f6520f64d61a917dcbfb37a536&v=4"
+            width="96"
+            height="65"
+          />
+        </a>
+      </td>
+      <td style="border: none">
+        <div>
+          <a href="https://github.com/magicoflolis">Magic Of Lolis</a> 
+          starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
+        </div>
+        <div>
+          User Bio: Certified Professional
+        </div>
+      </td>
+    </tr>
+    <tr style="border: none;">
+      <td style="border: none">
         <a href="https://github.com/soulhd">
           <img
             style="border-radius: 50%;"
@@ -227,28 +249,6 @@ I build and maintain optimized, scalable and highly available **data pipelines**
         </div>
         <div>
           User Bio: Nothing is impossible to a willing heart!
-        </div>
-      </td>
-    </tr>
-    <tr style="border: none;">
-      <td style="border: none">
-        <a href="https://github.com/superdays">
-          <img
-            style="border-radius: 50%;"
-            align="left"
-            src="https://avatars.githubusercontent.com/u/64962011?v=4"
-            width="96"
-            height="65"
-          />
-        </a>
-      </td>
-      <td style="border: none">
-        <div>
-          <a href="https://github.com/superdays">superdays</a> 
-          starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
-        </div>
-        <div>
-          User Bio: Nothing to 👀 here , no bio...!!
         </div>
       </td>
     </tr>
