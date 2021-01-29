@@ -34,6 +34,50 @@ I build and maintain optimized, scalable and highly available **data pipelines**
   <tbody cellspacing="0" cellpadding="0" style="border: none;">
     <tr style="border: none;">
       <td style="border: none">
+        <a href="https://github.com/TotalDay">
+          <img
+            style="border-radius: 50%;"
+            align="left"
+            src="https://avatars.githubusercontent.com/u/13989990?u=c964205e21c444c5aa01f29a04e81f924f50bfc0&v=4"
+            width="96"
+            height="65"
+          />
+        </a>
+      </td>
+      <td style="border: none">
+        <div>
+          <a href="https://github.com/TotalDay">TotalDay</a> 
+          starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
+        </div>
+        <div>
+          User Bio: Nothing to 👀 here , no bio...!!
+        </div>
+      </td>
+    </tr>
+    <tr style="border: none;">
+      <td style="border: none">
+        <a href="https://github.com/izontm">
+          <img
+            style="border-radius: 50%;"
+            align="left"
+            src="https://avatars.githubusercontent.com/u/860741?v=4"
+            width="96"
+            height="65"
+          />
+        </a>
+      </td>
+      <td style="border: none">
+        <div>
+          <a href="https://github.com/izontm">izontm</a> 
+          starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
+        </div>
+        <div>
+          User Bio: Nothing to 👀 here , no bio...!!
+        </div>
+      </td>
+    </tr>
+    <tr style="border: none;">
+      <td style="border: none">
         <a href="https://github.com/jkcox2016">
           <img
             style="border-radius: 50%;"
@@ -201,50 +245,6 @@ I build and maintain optimized, scalable and highly available **data pipelines**
       <td style="border: none">
         <div>
           <a href="https://github.com/dasche">IK~</a> 
-          starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
-        </div>
-        <div>
-          User Bio: Nothing to 👀 here , no bio...!!
-        </div>
-      </td>
-    </tr>
-    <tr style="border: none;">
-      <td style="border: none">
-        <a href="https://github.com/oscarhhh">
-          <img
-            style="border-radius: 50%;"
-            align="left"
-            src="https://avatars.githubusercontent.com/u/77631613?v=4"
-            width="96"
-            height="65"
-          />
-        </a>
-      </td>
-      <td style="border: none">
-        <div>
-          <a href="https://github.com/oscarhhh">oscarhhh</a> 
-          starred <a href="https://github.com/Dineshkarthik/codility_training">codility_training</a>
-        </div>
-        <div>
-          User Bio: Nothing to 👀 here , no bio...!!
-        </div>
-      </td>
-    </tr>
-    <tr style="border: none;">
-      <td style="border: none">
-        <a href="https://github.com/SIvaCoHan">
-          <img
-            style="border-radius: 50%;"
-            align="left"
-            src="https://avatars.githubusercontent.com/u/1344707?v=4"
-            width="96"
-            height="65"
-          />
-        </a>
-      </td>
-      <td style="border: none">
-        <div>
-          <a href="https://github.com/SIvaCoHan">SivaCoHan</a> 
           starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
         </div>
         <div>
