@@ -34,6 +34,28 @@ I build and maintain optimized, scalable and highly available **data pipelines**
   <tbody cellspacing="0" cellpadding="0" style="border: none;">
     <tr style="border: none;">
       <td style="border: none">
+        <a href="https://github.com/DahyeYoon">
+          <img
+            style="border-radius: 50%;"
+            align="left"
+            src="https://avatars.githubusercontent.com/u/13464650?u=0c0dd8273418f82cadbe1e8ba86e2bce91814da4&v=4"
+            width="96"
+            height="65"
+          />
+        </a>
+      </td>
+      <td style="border: none">
+        <div>
+          <a href="https://github.com/DahyeYoon">Dahye</a> 
+          starred <a href="https://github.com/Dineshkarthik/codility_training">codility_training</a>
+        </div>
+        <div>
+          User Bio: Computer Science Researcher
+        </div>
+      </td>
+    </tr>
+    <tr style="border: none;">
+      <td style="border: none">
         <a href="https://github.com/macrupy">
           <img
             style="border-radius: 50%;"
@@ -225,28 +247,6 @@ Currently Frontend Software Architect @ REPS -- Addicted to rice
       <td style="border: none">
         <div>
           <a href="https://github.com/ctrlpaste">ctrlpaste</a> 
-          starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
-        </div>
-        <div>
-          User Bio: Nothing to 👀 here , no bio...!!
-        </div>
-      </td>
-    </tr>
-    <tr style="border: none;">
-      <td style="border: none">
-        <a href="https://github.com/AllorH">
-          <img
-            style="border-radius: 50%;"
-            align="left"
-            src="https://avatars.githubusercontent.com/u/61371834?v=4"
-            width="96"
-            height="65"
-          />
-        </a>
-      </td>
-      <td style="border: none">
-        <div>
-          <a href="https://github.com/AllorH">AllorH</a> 
           starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
         </div>
         <div>
