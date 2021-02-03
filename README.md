@@ -34,6 +34,28 @@ I build and maintain optimized, scalable and highly available **data pipelines**
   <tbody cellspacing="0" cellpadding="0" style="border: none;">
     <tr style="border: none;">
       <td style="border: none">
+        <a href="https://github.com/cibimo">
+          <img
+            style="border-radius: 50%;"
+            align="left"
+            src="https://avatars.githubusercontent.com/u/59528590?v=4"
+            width="96"
+            height="65"
+          />
+        </a>
+      </td>
+      <td style="border: none">
+        <div>
+          <a href="https://github.com/cibimo">呱行次比猫</a> 
+          starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
+        </div>
+        <div>
+          User Bio: Nothing to 👀 here , no bio...!!
+        </div>
+      </td>
+    </tr>
+    <tr style="border: none;">
+      <td style="border: none">
         <a href="https://github.com/XobilePidor">
           <img
             style="border-radius: 50%;"
@@ -225,28 +247,6 @@ Currently Frontend Software Architect @ REPS -- Addicted to rice
       <td style="border: none">
         <div>
           <a href="https://github.com/izontm">izontm</a> 
-          starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
-        </div>
-        <div>
-          User Bio: Nothing to 👀 here , no bio...!!
-        </div>
-      </td>
-    </tr>
-    <tr style="border: none;">
-      <td style="border: none">
-        <a href="https://github.com/jkcox2016">
-          <img
-            style="border-radius: 50%;"
-            align="left"
-            src="https://avatars.githubusercontent.com/u/22947670?v=4"
-            width="96"
-            height="65"
-          />
-        </a>
-      </td>
-      <td style="border: none">
-        <div>
-          <a href="https://github.com/jkcox2016">jkcox2016</a> 
           starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
         </div>
         <div>
