@@ -34,6 +34,31 @@ I build and maintain optimized, scalable and highly available **data pipelines**
   <tbody cellspacing="0" cellpadding="0" style="border: none;">
     <tr style="border: none;">
       <td style="border: none">
+        <a href="https://github.com/tropiano">
+          <img
+            style="border-radius: 50%;"
+            align="left"
+            src="https://avatars.githubusercontent.com/u/4938142?u=3a180ce6d47db88e604ecc08f91bf5de8e1f02f8&v=4"
+            width="96"
+            height="65"
+          />
+        </a>
+      </td>
+      <td style="border: none">
+        <div>
+          <a href="https://github.com/tropiano">tropiano</a> 
+          starred <a href="https://github.com/Dineshkarthik/codility_training">codility_training</a>
+        </div>
+        <div>
+          User Bio: PhD in Physics. 
+Data Scientist.
+Football addict. 
+Inter fan.
+        </div>
+      </td>
+    </tr>
+    <tr style="border: none;">
+      <td style="border: none">
         <a href="https://github.com/in50mn14c">
           <img
             style="border-radius: 50%;"
@@ -230,29 +255,6 @@ I build and maintain optimized, scalable and highly available **data pipelines**
         <div>
           User Bio: Full-stack software engineer in America's Finest City. a coder with a sense of style.
 Currently Frontend Software Architect @ REPS -- Addicted to rice
-        </div>
-      </td>
-    </tr>
-    <tr style="border: none;">
-      <td style="border: none">
-        <a href="https://github.com/simofleanta">
-          <img
-            style="border-radius: 50%;"
-            align="left"
-            src="https://avatars.githubusercontent.com/u/47668423?u=75f6f983b334a8c9d9d8ff8a9dd3d0f8c1c30886&v=4"
-            width="96"
-            height="65"
-          />
-        </a>
-      </td>
-      <td style="border: none">
-        <div>
-          <a href="https://github.com/simofleanta">simofleanta</a> 
-          starred <a href="https://github.com/Dineshkarthik/codility_training">codility_training</a>
-        </div>
-        <div>
-          User Bio: Passionate Business Intelligence Analyst, turning data dashboards into action while working on business projects at international scale. 
-@Hirsch-BI-Solutions
         </div>
       </td>
     </tr>
