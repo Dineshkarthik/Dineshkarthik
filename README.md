@@ -34,6 +34,28 @@ I build and maintain optimized, scalable and highly available **data pipelines**
   <tbody cellspacing="0" cellpadding="0" style="border: none;">
     <tr style="border: none;">
       <td style="border: none">
+        <a href="https://github.com/trisongz">
+          <img
+            style="border-radius: 50%;"
+            align="left"
+            src="https://avatars.githubusercontent.com/u/4735784?v=4"
+            width="96"
+            height="65"
+          />
+        </a>
+      </td>
+      <td style="border: none">
+        <div>
+          <a href="https://github.com/trisongz">trisongz</a> 
+          starred <a href="https://github.com/Dineshkarthik/real-time-IoT-data-streaming">real-time-IoT-data-streaming</a>
+        </div>
+        <div>
+          User Bio: ML/NLP Researcher
+        </div>
+      </td>
+    </tr>
+    <tr style="border: none;">
+      <td style="border: none">
         <a href="https://github.com/makercyf">
           <img
             style="border-radius: 50%;"
@@ -230,28 +252,6 @@ I build and maintain optimized, scalable and highly available **data pipelines**
 Data Scientist.
 Football addict. 
 Inter fan.
-        </div>
-      </td>
-    </tr>
-    <tr style="border: none;">
-      <td style="border: none">
-        <a href="https://github.com/in50mn14c">
-          <img
-            style="border-radius: 50%;"
-            align="left"
-            src="https://avatars.githubusercontent.com/u/44334657?u=42ff01cea4cafa1cf5832796bb7215eccbd1e463&v=4"
-            width="96"
-            height="65"
-          />
-        </a>
-      </td>
-      <td style="border: none">
-        <div>
-          <a href="https://github.com/in50mn14c">in50mn14c</a> 
-          starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
-        </div>
-        <div>
-          User Bio: Nothing to 👀 here , no bio...!!
         </div>
       </td>
     </tr>
