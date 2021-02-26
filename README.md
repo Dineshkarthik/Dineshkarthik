@@ -56,28 +56,6 @@ I build and maintain optimized, scalable and highly available **data pipelines**
     </tr>
     <tr style="border: none;">
       <td style="border: none">
-        <a href="https://github.com/szj818">
-          <img
-            style="border-radius: 50%;"
-            align="left"
-            src="https://avatars.githubusercontent.com/u/31243431?u=def09bc845c0a326081d282203f1a0c44e064b10&v=4"
-            width="96"
-            height="65"
-          />
-        </a>
-      </td>
-      <td style="border: none">
-        <div>
-          <a href="https://github.com/szj818">szj818</a> 
-          starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
-        </div>
-        <div>
-          User Bio: Nothing to 👀 here , no bio...!!
-        </div>
-      </td>
-    </tr>
-    <tr style="border: none;">
-      <td style="border: none">
         <a href="https://github.com/trisongz">
           <img
             style="border-radius: 50%;"
@@ -245,6 +223,28 @@ I build and maintain optimized, scalable and highly available **data pipelines**
       <td style="border: none">
         <div>
           <a href="https://github.com/GetBee">GetBee</a> 
+          starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
+        </div>
+        <div>
+          User Bio: Nothing to 👀 here , no bio...!!
+        </div>
+      </td>
+    </tr>
+    <tr style="border: none;">
+      <td style="border: none">
+        <a href="https://github.com/sp003">
+          <img
+            style="border-radius: 50%;"
+            align="left"
+            src="https://avatars.githubusercontent.com/u/74710522?v=4"
+            width="96"
+            height="65"
+          />
+        </a>
+      </td>
+      <td style="border: none">
+        <div>
+          <a href="https://github.com/sp003">sp003</a> 
           starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
         </div>
         <div>
