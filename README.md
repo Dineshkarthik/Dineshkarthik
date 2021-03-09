@@ -47,7 +47,7 @@ I build and maintain optimized, scalable and highly available **data pipelines**
       <td style="border: none">
         <div>
           <a href="https://github.com/kotapullarao">KOTA PULLARAO</a> 
-          starred <a href="https://github.com/Dineshkarthik/leetcode-python">leetcode-python</a>
+          starred <a href="https://github.com/Dineshkarthik/Whatsapp-analyzer">Whatsapp-analyzer</a>
         </div>
         <div>
           User Bio: Big Data Engineer
