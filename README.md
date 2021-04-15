@@ -8,7 +8,7 @@ Striving to maintain the perfect balance between `It doesn't work...! Why?` vs `
 I build and maintain optimized, scalable and highly available **data pipelines** ingesting data into **Data Lake** & **Data Warehouse** which facilitate deeper analysis, reporting and ML modelling.
 
 
-- 🔭 I’m currently working on building and improving a configuration-based format for managing complex data pipelines in Airflow - [Declarative Data Pipeline Definition](https://www.thoughtworks.com/de/radar/techniques?blipid=202005084).
+- 🔭 I’m currently working on crafting  Distributed Event Driven Systems, prior to that was building and improving a configuration-based format for managing complex data pipelines in Airflow - [Declarative Data Pipeline Definition](https://www.thoughtworks.com/de/radar/techniques?blipid=202005084).
 - 🌱 I’m currently learning more Scala, NLP, and how to [write](https://medium.com/@dineshkarthik.r) occasionally.
 - 👯 I’m looking to collaborate on contributing to python based projects and mentoring.
 - 🤔 I’m looking for contributions to the [`telegram-media-downloader`](https://github.com/Dineshkarthik/telegram_media_downloader) repository(code, report issues) 
