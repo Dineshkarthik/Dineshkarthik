@@ -42,6 +42,28 @@ I build and maintain optimized, scalable and highly available **data pipelines**
     <tbody cellspacing="0" cellpadding="0" style="border: none;">
       <tr style="border: none;">
         <td style="border: none">
+          <a href="https://github.com/mlguy001">
+            <img
+              style="border-radius: 50%;"
+              align="left"
+              src="https://avatars.githubusercontent.com/u/70318591?v=4"
+              width="96"
+              height="65"
+            />
+          </a>
+        </td>
+        <td style="border: none">
+          <div>
+            <a href="https://github.com/mlguy001">mlguy001</a> 
+            starred <a href="https://github.com/Dineshkarthik/codility_training">codility_training</a>
+          </div>
+          <div>
+            User Bio: Nothing to 👀 here , no bio...!!
+          </div>
+        </td>
+      </tr>
+      <tr style="border: none;">
+        <td style="border: none">
           <a href="https://github.com/xiaoai-li">
             <img
               style="border-radius: 50%;"
@@ -236,30 +258,6 @@ BSc Geographic Information Science at Zhejiang university
           </div>
           <div>
             User Bio: Nothing to 👀 here , no bio...!!
-          </div>
-        </td>
-      </tr>
-      <tr style="border: none;">
-        <td style="border: none">
-          <a href="https://github.com/ravsa">
-            <img
-              style="border-radius: 50%;"
-              align="left"
-              src="https://avatars.githubusercontent.com/u/11839674?u=98d0dad1cbc60ab4cba01c70fa2cea6250b2fe91&v=4"
-              width="96"
-              height="65"
-            />
-          </a>
-        </td>
-        <td style="border: none">
-          <div>
-            <a href="https://github.com/ravsa">Ravindra Singh Ratnawat</a> 
-            starred <a href="https://github.com/Dineshkarthik/pinterest-telegram-bot">pinterest-telegram-bot</a>
-          </div>
-          <div>
-            User Bio: @openshiftio
-@fabric8-analytics
-@fabric8-launcher
           </div>
         </td>
       </tr>
