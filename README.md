@@ -42,6 +42,28 @@ I build and maintain optimized, scalable and highly available **data pipelines**
     <tbody cellspacing="0" cellpadding="0" style="border: none;">
       <tr style="border: none;">
         <td style="border: none">
+          <a href="https://github.com/antoh">
+            <img
+              style="border-radius: 50%;"
+              align="left"
+              src="https://avatars.githubusercontent.com/u/2965614?u=b9cdf4fad37f87b2080d10e6c9c98cc11a7fae0a&v=4"
+              width="96"
+              height="65"
+            />
+          </a>
+        </td>
+        <td style="border: none">
+          <div>
+            <a href="https://github.com/antoh">Antony Wainaina</a> 
+            starred <a href="https://github.com/Dineshkarthik/codility_training">codility_training</a>
+          </div>
+          <div>
+            User Bio: Nothing to 👀 here , no bio...!!
+          </div>
+        </td>
+      </tr>
+      <tr style="border: none;">
+        <td style="border: none">
           <a href="https://github.com/primemaster-git">
             <img
               style="border-radius: 50%;"
@@ -233,28 +255,6 @@ BSc Geographic Information Science at Zhejiang university
           <div>
             <a href="https://github.com/lews-therin">lews-therin</a> 
             starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
-          </div>
-          <div>
-            User Bio: Nothing to 👀 here , no bio...!!
-          </div>
-        </td>
-      </tr>
-      <tr style="border: none;">
-        <td style="border: none">
-          <a href="https://github.com/xjohnyknox">
-            <img
-              style="border-radius: 50%;"
-              align="left"
-              src="https://avatars.githubusercontent.com/u/11621522?v=4"
-              width="96"
-              height="65"
-            />
-          </a>
-        </td>
-        <td style="border: none">
-          <div>
-            <a href="https://github.com/xjohnyknox">Johny Jiménez</a> 
-            starred <a href="https://github.com/Dineshkarthik/codility_training">codility_training</a>
           </div>
           <div>
             User Bio: Nothing to 👀 here , no bio...!!
