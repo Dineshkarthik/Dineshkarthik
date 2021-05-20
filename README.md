@@ -42,6 +42,29 @@ I build and maintain optimized, scalable and highly available **data pipelines**
     <tbody cellspacing="0" cellpadding="0" style="border: none;">
       <tr style="border: none;">
         <td style="border: none">
+          <a href="https://github.com/waydk">
+            <img
+              style="border-radius: 50%;"
+              align="left"
+              src="https://avatars.githubusercontent.com/u/77948380?u=1c0a47fdabc09ac14e8513f626bf68d04f8b4c6c&v=4"
+              width="96"
+              height="65"
+            />
+          </a>
+        </td>
+        <td style="border: none">
+          <div>
+            <a href="https://github.com/waydk">Kira Kormak</a> 
+            starred <a href="https://github.com/Dineshkarthik/pinterest-telegram-bot">pinterest-telegram-bot</a>
+          </div>
+          <div>
+            User Bio:  I'm learning python and 
+ posting here what I've done
+          </div>
+        </td>
+      </tr>
+      <tr style="border: none;">
+        <td style="border: none">
           <a href="https://github.com/dishapatel010">
             <img
               style="border-radius: 50%;"
@@ -236,29 +259,6 @@ let them wear Bloomers!
           </div>
           <div>
             User Bio: Nothing to 👀 here , no bio...!!
-          </div>
-        </td>
-      </tr>
-      <tr style="border: none;">
-        <td style="border: none">
-          <a href="https://github.com/xiaoai-li">
-            <img
-              style="border-radius: 50%;"
-              align="left"
-              src="https://avatars.githubusercontent.com/u/32855997?u=921da451c2bd57a5c1a8bf385ced4ea21eeaa346&v=4"
-              width="96"
-              height="65"
-            />
-          </a>
-        </td>
-        <td style="border: none">
-          <div>
-            <a href="https://github.com/xiaoai-li">xiaoai</a> 
-            starred <a href="https://github.com/Dineshkarthik/codility_training">codility_training</a>
-          </div>
-          <div>
-            User Bio: MSc Geomatics at Delft University of Technology;
-BSc Geographic Information Science at Zhejiang university
           </div>
         </td>
       </tr>
