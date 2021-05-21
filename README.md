@@ -211,7 +211,7 @@ let them wear Bloomers!
         <td style="border: none">
           <div>
             <a href="https://github.com/antoh">Antony Wainaina</a> 
-            starred <a href="https://github.com/Dineshkarthik/codility_training">codility_training</a>
+            starred <a href="https://github.com/Dineshkarthik/codility-training">codility-training</a>
           </div>
           <div>
             User Bio: Nothing to 👀 here , no bio...!!
@@ -255,7 +255,7 @@ let them wear Bloomers!
         <td style="border: none">
           <div>
             <a href="https://github.com/Onyx-Nostalgia">Onyx-Nostalgia</a> 
-            starred <a href="https://github.com/Dineshkarthik/codility_training">codility_training</a>
+            starred <a href="https://github.com/Dineshkarthik/codility-training">codility-training</a>
           </div>
           <div>
             User Bio: Nothing to 👀 here , no bio...!!
