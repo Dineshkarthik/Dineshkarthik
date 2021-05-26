@@ -55,7 +55,7 @@ I build and maintain optimized, scalable and highly available **data pipelines**
         <td style="border: none">
           <div>
             <a href="https://github.com/Marc-g-Z">Marc-g-Z</a> 
-            starred <a href="https://github.com/Dineshkarthik/browsing_history_viz">browsing_history_viz</a>
+            starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
           </div>
           <div>
             User Bio: Nothing to 👀 here , no bio...!!
