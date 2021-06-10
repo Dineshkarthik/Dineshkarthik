@@ -42,6 +42,28 @@ I build and maintain optimized, scalable and highly available **data pipelines**
     <tbody cellspacing="0" cellpadding="0" style="border: none;">
       <tr style="border: none;">
         <td style="border: none">
+          <a href="https://github.com/damlagul">
+            <img
+              style="border-radius: 50%;"
+              align="left"
+              src="https://avatars.githubusercontent.com/u/29822045?u=dbbb8826f546727299454044f3007ca0b3e88e6e&v=4"
+              width="96"
+              height="65"
+            />
+          </a>
+        </td>
+        <td style="border: none">
+          <div>
+            <a href="https://github.com/damlagul">Damla Altunay</a> 
+            starred <a href="https://github.com/Dineshkarthik/codility-training">codility-training</a>
+          </div>
+          <div>
+            User Bio: Interested in computer vision and machine learning algorithms & applications
+          </div>
+        </td>
+      </tr>
+      <tr style="border: none;">
+        <td style="border: none">
           <a href="https://github.com/gogopandarrr">
             <img
               style="border-radius: 50%;"
@@ -232,28 +254,6 @@ I build and maintain optimized, scalable and highly available **data pipelines**
           <div>
             <a href="https://github.com/saidekrishna">saidekrishna</a> 
             starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
-          </div>
-          <div>
-            User Bio: Nothing to 👀 here , no bio...!!
-          </div>
-        </td>
-      </tr>
-      <tr style="border: none;">
-        <td style="border: none">
-          <a href="https://github.com/samadii">
-            <img
-              style="border-radius: 50%;"
-              align="left"
-              src="https://avatars.githubusercontent.com/u/77415087?v=4"
-              width="96"
-              height="65"
-            />
-          </a>
-        </td>
-        <td style="border: none">
-          <div>
-            <a href="https://github.com/samadii">samadii</a> 
-            starred <a href="https://github.com/Dineshkarthik/pinterest-telegram-bot">pinterest-telegram-bot</a>
           </div>
           <div>
             User Bio: Nothing to 👀 here , no bio...!!
