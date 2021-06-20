@@ -179,7 +179,7 @@ discord: origamiK#3859
             <img
               style="border-radius: 50%;"
               align="left"
-              src="https://avatars.githubusercontent.com/u/639160?u=c0f7190e34044491d680c66e73470b2fbb98eda6&v=4"
+              src="https://avatars.githubusercontent.com/u/639160?u=7fb49f7e4a8eb91232d40687eaa58d2f59072564&v=4"
               width="96"
               height="65"
             />
