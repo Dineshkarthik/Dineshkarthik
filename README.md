@@ -153,7 +153,7 @@ discord: origamiK#3859
       </tr>
       <tr style="border: none;">
         <td style="border: none">
-          <a href="https://github.com/sanjitsinha19">
+          <a href="https://github.com/Ani-codes">
             <img
               style="border-radius: 50%;"
               align="left"
@@ -165,7 +165,7 @@ discord: origamiK#3859
         </td>
         <td style="border: none">
           <div>
-            <a href="https://github.com/sanjitsinha19">sanjitsinha19</a> 
+            <a href="https://github.com/Ani-codes">Ani-codes</a> 
             starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
           </div>
           <div>
