@@ -76,11 +76,11 @@ I build and maintain optimized, scalable and highly available **data pipelines**
         </td>
         <td style="border: none">
           <div>
-            <a href="https://github.com/blazerza97">Rick</a> 
+            <a href="https://github.com/blazerza97">blazer</a> 
             starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
           </div>
           <div>
-            User Bio: Nothing to 👀 here , no bio...!!
+            User Bio: Rick
           </div>
         </td>
       </tr>
