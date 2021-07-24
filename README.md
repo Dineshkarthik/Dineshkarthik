@@ -42,6 +42,28 @@ I build and maintain optimized, scalable and highly available **data pipelines**
     <tbody cellspacing="0" cellpadding="0" style="border: none;">
       <tr style="border: none;">
         <td style="border: none">
+          <a href="https://github.com/opexxx">
+            <img
+              style="border-radius: 50%;"
+              align="left"
+              src="https://avatars.githubusercontent.com/u/106825?u=b343e6026a1c2d816e1bbc75e7304ec0a168d225&v=4"
+              width="96"
+              height="65"
+            />
+          </a>
+        </td>
+        <td style="border: none">
+          <div>
+            <a href="https://github.com/opexxx">Alexander Knorr</a> 
+            starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
+          </div>
+          <div>
+            User Bio: https://de.linkedin.com/in/alexander-knorr-1981
+          </div>
+        </td>
+      </tr>
+      <tr style="border: none;">
+        <td style="border: none">
           <a href="https://github.com/ycl413">
             <img
               style="border-radius: 50%;"
@@ -235,28 +257,6 @@ I build and maintain optimized, scalable and highly available **data pipelines**
           </div>
           <div>
             User Bio: Data Science | Machine Learning | Deep Learning | Neural Network | Computer Vision | Artificial Intelligence
-          </div>
-        </td>
-      </tr>
-      <tr style="border: none;">
-        <td style="border: none">
-          <a href="https://github.com/itsukaa">
-            <img
-              style="border-radius: 50%;"
-              align="left"
-              src="https://avatars.githubusercontent.com/u/82749852?u=5479229bf58c192192aa0074f7a4940b75ac91cd&v=4"
-              width="96"
-              height="65"
-            />
-          </a>
-        </td>
-        <td style="border: none">
-          <div>
-            <a href="https://github.com/itsukaa">Itsukaa</a> 
-            starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
-          </div>
-          <div>
-            User Bio: 新事物的产生 旧事物的灭亡
           </div>
         </td>
       </tr>
