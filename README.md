@@ -68,7 +68,7 @@ I build and maintain optimized, scalable and highly available **data pipelines**
             <img
               style="border-radius: 50%;"
               align="left"
-              src="https://avatars.githubusercontent.com/u/78639471?u=5447e81af57d6ab8d152a3c80df7e6750c5f027c&v=4"
+              src="https://avatars.githubusercontent.com/u/78639471?u=6109652920a86c3e188fd0832ee1b9e16d8fce10&v=4"
               width="96"
               height="65"
             />
