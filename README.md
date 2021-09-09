@@ -42,6 +42,28 @@ I build and maintain optimized, scalable and highly available **data pipelines**
     <tbody cellspacing="0" cellpadding="0" style="border: none;">
       <tr style="border: none;">
         <td style="border: none">
+          <a href="https://github.com/shuxiaokai">
+            <img
+              style="border-radius: 50%;"
+              align="left"
+              src="https://avatars.githubusercontent.com/u/12473424?u=55b3c5b989b3486e59bd22624e6b7b6135a6dd6f&v=4"
+              width="96"
+              height="65"
+            />
+          </a>
+        </td>
+        <td style="border: none">
+          <div>
+            <a href="https://github.com/shuxiaokai">shuxiaokai</a> 
+            starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
+          </div>
+          <div>
+            User Bio: ppppppppython
+          </div>
+        </td>
+      </tr>
+      <tr style="border: none;">
+        <td style="border: none">
           <a href="https://github.com/fluential">
             <img
               style="border-radius: 50%;"
@@ -235,28 +257,6 @@ I build and maintain optimized, scalable and highly available **data pipelines**
           </div>
           <div>
             User Bio: I am enthusiastic about learning new technologies and new concepts. I am a fast learner and easy to adopt new concepts and technologies.
-          </div>
-        </td>
-      </tr>
-      <tr style="border: none;">
-        <td style="border: none">
-          <a href="https://github.com/LoyalBenny">
-            <img
-              style="border-radius: 50%;"
-              align="left"
-              src="https://avatars.githubusercontent.com/u/38778964?u=f7b2b13ba80c543ce566c99f62d53efea0cb35da&v=4"
-              width="96"
-              height="65"
-            />
-          </a>
-        </td>
-        <td style="border: none">
-          <div>
-            <a href="https://github.com/LoyalBenny">LoyalBenny</a> 
-            starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
-          </div>
-          <div>
-            User Bio: Nothing to 👀 here , no bio...!!
           </div>
         </td>
       </tr>
