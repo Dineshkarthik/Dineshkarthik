@@ -46,7 +46,7 @@ I build and maintain optimized, scalable and highly available **data pipelines**
             <img
               style="border-radius: 50%;"
               align="left"
-              src="https://avatars.githubusercontent.com/u/73272797?u=65fa69bbb922a0c12da7dc46982e99f7515c55da&v=4"
+              src="https://avatars.githubusercontent.com/u/73272797?u=b1426b93082bb3f6e9b6d1c077290106ea0b755d&v=4"
               width="96"
               height="65"
             />
