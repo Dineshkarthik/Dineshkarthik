@@ -190,7 +190,7 @@ I build and maintain optimized, scalable and highly available **data pipelines**
             starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
           </div>
           <div>
-            User Bio: 👨‍🦯 Whimsical developer🐒 , often Golang, coding C to talk to the CPU.
+            User Bio: 👨‍🦯 Whimsical developer🐒 , often Golang; a passenger on the road used to arrive the depths of the system.
           </div>
         </td>
       </tr>
