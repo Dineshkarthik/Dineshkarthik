@@ -136,7 +136,7 @@ Hello, opensource I am back.
             <img
               style="border-radius: 50%;"
               align="left"
-              src="https://avatars.githubusercontent.com/u/53783790?v=4"
+              src="https://avatars.githubusercontent.com/u/53783790?u=5495be6d36f6fa3ab1da4290d617676370d929a7&v=4"
               width="96"
               height="65"
             />
