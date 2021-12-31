@@ -17,6 +17,10 @@ I build and maintain optimized, scalable and highly available **data pipelines**
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Never used PyCharm or IntelliJ or any such IDE
 
+## 📈 Github Stats
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dineshkarthik&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dineshkarthik&hide_border=true" />
+  
 ## Connect with Me 🤝🏻
 
 <p align="center">
@@ -29,12 +33,6 @@ I build and maintain optimized, scalable and highly available **data pipelines**
 
 
 ## Some fun stuffs:
-
-<details>
-  <summary><b>📈 Github Stats</b></summary>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dineshkarthik&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dineshkarthik&hide_border=true" />
-</details>
 
 <details>
   <summary><b>⭐ Recent Stargazers</b></summary>
