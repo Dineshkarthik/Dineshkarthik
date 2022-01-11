@@ -40,6 +40,28 @@ I build and maintain optimized, scalable and highly available **data pipelines**
     <tbody cellspacing="0" cellpadding="0" style="border: none;">
       <tr style="border: none;">
         <td style="border: none">
+          <a href="https://github.com/shuxiaokai">
+            <img
+              style="border-radius: 50%;"
+              align="left"
+              src="https://avatars.githubusercontent.com/u/12473424?u=55b3c5b989b3486e59bd22624e6b7b6135a6dd6f&v=4"
+              width="96"
+              height="65"
+            />
+          </a>
+        </td>
+        <td style="border: none">
+          <div>
+            <a href="https://github.com/shuxiaokai">shuxiaokai</a> 
+            starred <a href="https://github.com/Dineshkarthik/pinterest-telegram-bot">pinterest-telegram-bot</a>
+          </div>
+          <div>
+            User Bio: ppppppppython
+          </div>
+        </td>
+      </tr>
+      <tr style="border: none;">
+        <td style="border: none">
           <a href="https://github.com/huuussh">
             <img
               style="border-radius: 50%;"
@@ -233,29 +255,6 @@ I build and maintain optimized, scalable and highly available **data pipelines**
           </div>
           <div>
             User Bio: Coder. Reverser. Security oriented. Inquisitive.
-          </div>
-        </td>
-      </tr>
-      <tr style="border: none;">
-        <td style="border: none">
-          <a href="https://github.com/ziozzang">
-            <img
-              style="border-radius: 50%;"
-              align="left"
-              src="https://avatars.githubusercontent.com/u/1618537?u=a6036ecf884ac71aa8ccca96829eb775eb6e356d&v=4"
-              width="96"
-              height="65"
-            />
-          </a>
-        </td>
-        <td style="border: none">
-          <div>
-            <a href="https://github.com/ziozzang">Jioh L. Jung</a> 
-            starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
-          </div>
-          <div>
-            User Bio: Software Engineer.
-Builder of Public Cloud Service, Software defined Data Center, Search Engine Server, etc.
           </div>
         </td>
       </tr>
