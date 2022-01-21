@@ -1,7 +1,7 @@
 ![](https://github.com/Dineshkarthik/Dineshkarthik/blob/master/assets/cover.jpg)
 The Dark-Mode always wins.
 
-Striving to maintain the perfect balance between `It doesn't work...! Why?` vs `It works...! Why?`.
+Striving to maintain the perfect balance between `It doesn't work...! Why?` vs `It works...! Why?`. <img src="https://4.bp.blogspot.com/-podk7aLjSsY/WQqCyJHmOjI/AAAAAAAHWP4/wVjJlqzY75sRouJTm3HCtuKy5EXJfLMCgCLcB/s1600/AS002592_18.gif" width="50px">
 
 ### 👋 Hi, I'm Dineshkarthik Raveendran (DK).
 
