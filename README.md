@@ -89,7 +89,7 @@ I build and maintain optimized, scalable and highly available **data pipelines**
             <img
               style="border-radius: 50%;"
               align="left"
-              src="https://avatars.githubusercontent.com/u/83507366?u=b6196eaa0233df70b68e9ead0539726754a9bb6e&v=4"
+              src="https://avatars.githubusercontent.com/u/83507366?u=e2a0b61cce0dd6f13bff4aa5ebdf4d3cca712730&v=4"
               width="96"
               height="65"
             />
