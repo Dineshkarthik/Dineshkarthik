@@ -133,7 +133,7 @@ I build and maintain optimized, scalable and highly available **data pipelines**
             <img
               style="border-radius: 50%;"
               align="left"
-              src="https://avatars.githubusercontent.com/u/88923783?u=45ad2cecc9baa104fa414877351bae55d5cd5c65&v=4"
+              src="https://avatars.githubusercontent.com/u/88923783?u=b030288dcb5855da77b82f9a4f2a893a7992a22a&v=4"
               width="96"
               height="65"
             />
@@ -141,7 +141,7 @@ I build and maintain optimized, scalable and highly available **data pipelines**
         </td>
         <td style="border: none">
           <div>
-            <a href="https://github.com/IAXRetailer">IAXRetailer</a> 
+            <a href="https://github.com/IAXRetailer">H2Sxxa</a> 
             starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
           </div>
           <div>
