@@ -41,6 +41,28 @@ I build and maintain optimized, scalable and highly available **data pipelines**
     <tbody cellspacing="0" cellpadding="0" style="border: none;">
       <tr style="border: none;">
         <td style="border: none">
+          <a href="https://github.com/olegkorol">
+            <img
+              style="border-radius: 50%;"
+              align="left"
+              src="https://avatars.githubusercontent.com/u/13587499?u=4649cc013a8405dc4f1ec94c26b9641c6ee12e06&v=4"
+              width="96"
+              height="65"
+            />
+          </a>
+        </td>
+        <td style="border: none">
+          <div>
+            <a href="https://github.com/olegkorol">Oleg Korol</a> 
+            starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
+          </div>
+          <div>
+            User Bio: Nothing to 👀 here , no bio...!!
+          </div>
+        </td>
+      </tr>
+      <tr style="border: none;">
+        <td style="border: none">
           <a href="https://github.com/renyi">
             <img
               style="border-radius: 50%;"
@@ -236,30 +258,6 @@ Love to promote #Indieweb Passionate about #CivicTech #Dataviz #RSS #Blockchain 
           </div>
           <div>
             User Bio: Open sourcerer
-          </div>
-        </td>
-      </tr>
-      <tr style="border: none;">
-        <td style="border: none">
-          <a href="https://github.com/amidpro">
-            <img
-              style="border-radius: 50%;"
-              align="left"
-              src="https://avatars.githubusercontent.com/u/61383020?u=bbfdf91facd435ffb56d96094ebab64b05a5932b&v=4"
-              width="96"
-              height="65"
-            />
-          </a>
-        </td>
-        <td style="border: none">
-          <div>
-            <a href="https://github.com/amidpro">Laptop P.</a> 
-            starred <a href="https://github.com/Dineshkarthik/codility-training">codility-training</a>
-          </div>
-          <div>
-            User Bio: Programming focuses on problem solving and improvement (making things better), that is why iCode. 
-
-Currently learning Python, MySQL and JavaScript.
           </div>
         </td>
       </tr>
