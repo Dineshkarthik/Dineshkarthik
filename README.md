@@ -41,6 +41,29 @@ I build and maintain optimized, scalable and highly available **data pipelines**
     <tbody cellspacing="0" cellpadding="0" style="border: none;">
       <tr style="border: none;">
         <td style="border: none">
+          <a href="https://github.com/sanketgarade">
+            <img
+              style="border-radius: 50%;"
+              align="left"
+              src="https://avatars.githubusercontent.com/u/74632379?u=c5d2d992d45a39373ad6f6303043716db409c277&v=4"
+              width="96"
+              height="65"
+            />
+          </a>
+        </td>
+        <td style="border: none">
+          <div>
+            <a href="https://github.com/sanketgarade">संकेत गराडे</a> 
+            starred <a href="https://github.com/Dineshkarthik/OSM-Translate-TelegramBot">OSM-Translate-TelegramBot</a>
+          </div>
+          <div>
+            User Bio: अंतःस्थापित नियंत्रण प्रणाली, मुक्त स्त्रोत सॉफ्टवेर व मराठीत स्थानिकीकरणाची आवड.
+Interested in embedded control systems, open source and Marathi localisation.
+          </div>
+        </td>
+      </tr>
+      <tr style="border: none;">
+        <td style="border: none">
           <a href="https://github.com/StarWhiz">
             <img
               style="border-radius: 50%;"
@@ -231,28 +254,6 @@ I build and maintain optimized, scalable and highly available **data pipelines**
           <div>
             <a href="https://github.com/JodyBroad">Jody</a> 
             starred <a href="https://github.com/Dineshkarthik/codility-training">codility-training</a>
-          </div>
-          <div>
-            User Bio: Nothing to 👀 here , no bio...!!
-          </div>
-        </td>
-      </tr>
-      <tr style="border: none;">
-        <td style="border: none">
-          <a href="https://github.com/StarXin1">
-            <img
-              style="border-radius: 50%;"
-              align="left"
-              src="https://avatars.githubusercontent.com/u/42883457?u=a577624494eb6d57b34f98fc18a629788433d7a9&v=4"
-              width="96"
-              height="65"
-            />
-          </a>
-        </td>
-        <td style="border: none">
-          <div>
-            <a href="https://github.com/StarXin1">StarXin</a> 
-            starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
           </div>
           <div>
             User Bio: Nothing to 👀 here , no bio...!!
