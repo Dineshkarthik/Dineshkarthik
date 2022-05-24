@@ -41,6 +41,28 @@ I build and maintain optimized, scalable and highly available **data pipelines**
     <tbody cellspacing="0" cellpadding="0" style="border: none;">
       <tr style="border: none;">
         <td style="border: none">
+          <a href="https://github.com/vyyq">
+            <img
+              style="border-radius: 50%;"
+              align="left"
+              src="https://avatars.githubusercontent.com/u/35229879?u=79b7b8aff71fa8e4095e6bd9b94e109e6325d910&v=4"
+              width="96"
+              height="65"
+            />
+          </a>
+        </td>
+        <td style="border: none">
+          <div>
+            <a href="https://github.com/vyyq">Yuqin Yan</a> 
+            starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
+          </div>
+          <div>
+            User Bio: Nothing to 👀 here , no bio...!!
+          </div>
+        </td>
+      </tr>
+      <tr style="border: none;">
+        <td style="border: none">
           <a href="https://github.com/vitordangelo">
             <img
               style="border-radius: 50%;"
@@ -235,28 +257,6 @@ Interested in embedded control systems, open source and Marathi localisation.
           </div>
           <div>
             User Bio: OKC/Spatz cult Survivor | information activist | agitator | disruptor of social injustice | interested in geopolitics, disinformation. RT is no endorsement.
-          </div>
-        </td>
-      </tr>
-      <tr style="border: none;">
-        <td style="border: none">
-          <a href="https://github.com/Dryrtan">
-            <img
-              style="border-radius: 50%;"
-              align="left"
-              src="https://avatars.githubusercontent.com/u/58276701?u=7bcf6a543bdaa9a8a93c5369778bdc9f6a5e6729&v=4"
-              width="96"
-              height="65"
-            />
-          </a>
-        </td>
-        <td style="border: none">
-          <div>
-            <a href="https://github.com/Dryrtan">Kleidimar Martins</a> 
-            starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
-          </div>
-          <div>
-            User Bio: Developer, Administrator of Linux servers, as well as web developer, ex-military of the military board of communications and inteligence.
           </div>
         </td>
       </tr>
