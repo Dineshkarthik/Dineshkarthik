@@ -41,6 +41,28 @@ I build and maintain optimized, scalable and highly available **data pipelines**
     <tbody cellspacing="0" cellpadding="0" style="border: none;">
       <tr style="border: none;">
         <td style="border: none">
+          <a href="https://github.com/Evil-Developer">
+            <img
+              style="border-radius: 50%;"
+              align="left"
+              src="https://avatars.githubusercontent.com/u/95502464?u=c33ee725545e26e5241d17cded8f0abeb345d6fe&v=4"
+              width="96"
+              height="65"
+            />
+          </a>
+        </td>
+        <td style="border: none">
+          <div>
+            <a href="https://github.com/Evil-Developer">Evil-Developer</a> 
+            starred <a href="https://github.com/Dineshkarthik/codility-training">codility-training</a>
+          </div>
+          <div>
+            User Bio: Nothing to 👀 here , no bio...!!
+          </div>
+        </td>
+      </tr>
+      <tr style="border: none;">
+        <td style="border: none">
           <a href="https://github.com/GLSakura">
             <img
               style="border-radius: 50%;"
@@ -230,28 +252,6 @@ I build and maintain optimized, scalable and highly available **data pipelines**
         <td style="border: none">
           <div>
             <a href="https://github.com/RoyHeZ">RoyHeZ</a> 
-            starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
-          </div>
-          <div>
-            User Bio: Nothing to 👀 here , no bio...!!
-          </div>
-        </td>
-      </tr>
-      <tr style="border: none;">
-        <td style="border: none">
-          <a href="https://github.com/Amerr">
-            <img
-              style="border-radius: 50%;"
-              align="left"
-              src="https://avatars.githubusercontent.com/u/7578030?u=eec6174a0770a2fe24b123fda7900b8afc0e4744&v=4"
-              width="96"
-              height="65"
-            />
-          </a>
-        </td>
-        <td style="border: none">
-          <div>
-            <a href="https://github.com/Amerr">Amerrnath Murugan</a> 
             starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
           </div>
           <div>
