@@ -190,6 +190,7 @@ I build and maintain optimized, scalable and highly available **data pipelines**
           </div>
           <div>
             User Bio: .NET Enthusiast with a slight touch of ML
+If it's hard, I am doing it.
           </div>
         </td>
       </tr>
