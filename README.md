@@ -41,6 +41,28 @@ I build and maintain optimized, scalable and highly available **data pipelines**
     <tbody cellspacing="0" cellpadding="0" style="border: none;">
       <tr style="border: none;">
         <td style="border: none">
+          <a href="https://github.com/arjung24">
+            <img
+              style="border-radius: 50%;"
+              align="left"
+              src="https://avatars.githubusercontent.com/u/68998000?v=4"
+              width="96"
+              height="65"
+            />
+          </a>
+        </td>
+        <td style="border: none">
+          <div>
+            <a href="https://github.com/arjung24">arjung24</a> 
+            starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
+          </div>
+          <div>
+            User Bio: Nothing to 👀 here , no bio...!!
+          </div>
+        </td>
+      </tr>
+      <tr style="border: none;">
+        <td style="border: none">
           <a href="https://github.com/D4di69">
             <img
               style="border-radius: 50%;"
@@ -231,28 +253,6 @@ I build and maintain optimized, scalable and highly available **data pipelines**
           <div>
             <a href="https://github.com/xiekunyao">xiekunyao</a> 
             starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
-          </div>
-          <div>
-            User Bio: Nothing to 👀 here , no bio...!!
-          </div>
-        </td>
-      </tr>
-      <tr style="border: none;">
-        <td style="border: none">
-          <a href="https://github.com/mehdi-elion">
-            <img
-              style="border-radius: 50%;"
-              align="left"
-              src="https://avatars.githubusercontent.com/u/76530758?u=56d7b051edf128dc6303030f32084b91af9ce666&v=4"
-              width="96"
-              height="65"
-            />
-          </a>
-        </td>
-        <td style="border: none">
-          <div>
-            <a href="https://github.com/mehdi-elion">Mehdi Elion</a> 
-            starred <a href="https://github.com/Dineshkarthik/codility-training">codility-training</a>
           </div>
           <div>
             User Bio: Nothing to 👀 here , no bio...!!
