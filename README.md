@@ -155,7 +155,7 @@ I build and maintain optimized, scalable and highly available **data pipelines**
             <img
               style="border-radius: 50%;"
               align="left"
-              src="https://avatars.githubusercontent.com/u/109898765?u=1d34afbea95a201983ce20ece3dfbf9eba739d4f&v=4"
+              src="https://avatars.githubusercontent.com/u/109898765?v=4"
               width="96"
               height="65"
             />
