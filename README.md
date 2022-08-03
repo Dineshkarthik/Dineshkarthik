@@ -67,7 +67,7 @@ I build and maintain optimized, scalable and highly available **data pipelines**
             <img
               style="border-radius: 50%;"
               align="left"
-              src="https://avatars.githubusercontent.com/u/49416150?u=a6c4e21e07ff03e05e9604dd99d19bf5286157a9&v=4"
+              src="https://avatars.githubusercontent.com/u/49416150?u=df0d272aa526ffcb6d691fa07cb3f1b0261f6a0d&v=4"
               width="96"
               height="65"
             />
@@ -75,12 +75,11 @@ I build and maintain optimized, scalable and highly available **data pipelines**
         </td>
         <td style="border: none">
           <div>
-            <a href="https://github.com/64bitf00">64bitf00</a> 
+            <a href="https://github.com/64bitf00">evol_twin</a> 
             starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
           </div>
           <div>
-            User Bio: PORN built the internet.. 
-forget DARPA... pervs financed it all..
+            User Bio: probably located where I shouldn't be, Definitely gazing onto the dirty butt-hole of the internet... for funsies..
           </div>
         </td>
       </tr>
