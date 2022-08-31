@@ -97,7 +97,7 @@ I build and maintain optimized, scalable and highly available **data pipelines**
         </td>
         <td style="border: none">
           <div>
-            <a href="https://github.com/Mqpzi">Huricy Miun</a> 
+            <a href="https://github.com/Mqpzi">煤球坯子</a> 
             starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
           </div>
           <div>
