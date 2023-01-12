@@ -41,6 +41,28 @@ I build and maintain optimized, scalable and highly available **data pipelines**
     <tbody cellspacing="0" cellpadding="0" style="border: none;">
       <tr style="border: none;">
         <td style="border: none">
+          <a href="https://github.com/reggiepy">
+            <img
+              style="border-radius: 50%;"
+              align="left"
+              src="https://avatars.githubusercontent.com/u/39558381?u=78190cb86186aa0b5da37dc46c3e69f5a2c440ed&v=4"
+              width="96"
+              height="65"
+            />
+          </a>
+        </td>
+        <td style="border: none">
+          <div>
+            <a href="https://github.com/reggiepy">reggiepy</a> 
+            starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
+          </div>
+          <div>
+            User Bio: Python & Go  engineer
+          </div>
+        </td>
+      </tr>
+      <tr style="border: none;">
+        <td style="border: none">
           <a href="https://github.com/NorthRebel">
             <img
               style="border-radius: 50%;"
@@ -231,28 +253,6 @@ I build and maintain optimized, scalable and highly available **data pipelines**
           <div>
             <a href="https://github.com/kjingruz">kjingruz</a> 
             starred <a href="https://github.com/Dineshkarthik/codility-training">codility-training</a>
-          </div>
-          <div>
-            User Bio: Nothing to 👀 here , no bio...!!
-          </div>
-        </td>
-      </tr>
-      <tr style="border: none;">
-        <td style="border: none">
-          <a href="https://github.com/nzuzondlovu">
-            <img
-              style="border-radius: 50%;"
-              align="left"
-              src="https://avatars.githubusercontent.com/u/19386326?u=73e774726e8ad5010f2cce1d59cfacb9e50b9f8e&v=4"
-              width="96"
-              height="65"
-            />
-          </a>
-        </td>
-        <td style="border: none">
-          <div>
-            <a href="https://github.com/nzuzondlovu">Nzuzo R. Ndlovu</a> 
-            starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
           </div>
           <div>
             User Bio: Nothing to 👀 here , no bio...!!
