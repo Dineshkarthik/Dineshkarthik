@@ -41,6 +41,50 @@ I build and maintain optimized, scalable and highly available **data pipelines**
     <tbody cellspacing="0" cellpadding="0" style="border: none;">
       <tr style="border: none;">
         <td style="border: none">
+          <a href="https://github.com/AlexName1">
+            <img
+              style="border-radius: 50%;"
+              align="left"
+              src="https://avatars.githubusercontent.com/u/69169458?v=4"
+              width="96"
+              height="65"
+            />
+          </a>
+        </td>
+        <td style="border: none">
+          <div>
+            <a href="https://github.com/AlexName1">AlexName1</a> 
+            starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
+          </div>
+          <div>
+            User Bio: Nothing to 👀 here , no bio...!!
+          </div>
+        </td>
+      </tr>
+      <tr style="border: none;">
+        <td style="border: none">
+          <a href="https://github.com/tiackman">
+            <img
+              style="border-radius: 50%;"
+              align="left"
+              src="https://avatars.githubusercontent.com/u/33551039?v=4"
+              width="96"
+              height="65"
+            />
+          </a>
+        </td>
+        <td style="border: none">
+          <div>
+            <a href="https://github.com/tiackman">tiger_long</a> 
+            starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
+          </div>
+          <div>
+            User Bio: Nothing to 👀 here , no bio...!!
+          </div>
+        </td>
+      </tr>
+      <tr style="border: none;">
+        <td style="border: none">
           <a href="https://github.com/Vtracker">
             <img
               style="border-radius: 50%;"
@@ -151,28 +195,6 @@ I build and maintain optimized, scalable and highly available **data pipelines**
       </tr>
       <tr style="border: none;">
         <td style="border: none">
-          <a href="https://github.com/MostafaEwis">
-            <img
-              style="border-radius: 50%;"
-              align="left"
-              src="https://avatars.githubusercontent.com/u/64862002?u=c28250c3f008c82f4f0167ae0747e0979bb4c6ec&v=4"
-              width="96"
-              height="65"
-            />
-          </a>
-        </td>
-        <td style="border: none">
-          <div>
-            <a href="https://github.com/MostafaEwis">Mostafa Ewis</a> 
-            starred <a href="https://github.com/Dineshkarthik/codility-training">codility-training</a>
-          </div>
-          <div>
-            User Bio: having fun and creating new stuff to show to my friends.
-          </div>
-        </td>
-      </tr>
-      <tr style="border: none;">
-        <td style="border: none">
           <a href="https://github.com/anlo1220">
             <img
               style="border-radius: 50%;"
@@ -234,28 +256,6 @@ I build and maintain optimized, scalable and highly available **data pipelines**
           </div>
           <div>
             User Bio: Nothing to 👀 here , no bio...!!
-          </div>
-        </td>
-      </tr>
-      <tr style="border: none;">
-        <td style="border: none">
-          <a href="https://github.com/sobitd">
-            <img
-              style="border-radius: 50%;"
-              align="left"
-              src="https://avatars.githubusercontent.com/u/11064884?u=189fd5380ee0430e542679e0c154f9f6d1cea98e&v=4"
-              width="96"
-              height="65"
-            />
-          </a>
-        </td>
-        <td style="border: none">
-          <div>
-            <a href="https://github.com/sobitd">Daniel Sobit</a> 
-            starred <a href="https://github.com/Dineshkarthik/codility-training">codility-training</a>
-          </div>
-          <div>
-            User Bio: Big Data
           </div>
         </td>
       </tr>
