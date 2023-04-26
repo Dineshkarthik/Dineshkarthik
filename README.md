@@ -41,6 +41,29 @@ I build and maintain optimized, scalable and highly available **data pipelines**
     <tbody cellspacing="0" cellpadding="0" style="border: none;">
       <tr style="border: none;">
         <td style="border: none">
+          <a href="https://github.com/troublescope">
+            <img
+              style="border-radius: 50%;"
+              align="left"
+              src="https://avatars.githubusercontent.com/u/121922135?u=6ced23c401e7f3a3027bc89dc3edc0accf4ac75f&v=4"
+              width="96"
+              height="65"
+            />
+          </a>
+        </td>
+        <td style="border: none">
+          <div>
+            <a href="https://github.com/troublescope">Tomi Prasetio</a> 
+            starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
+          </div>
+          <div>
+            User Bio: An Open source enthusiast.
+im from Indonesian 😶‍🌫️
+          </div>
+        </td>
+      </tr>
+      <tr style="border: none;">
+        <td style="border: none">
           <a href="https://github.com/xcSlice">
             <img
               style="border-radius: 50%;"
@@ -236,28 +259,6 @@ I build and maintain optimized, scalable and highly available **data pipelines**
           <div>
             User Bio: Student!
 Code Noob XD
-          </div>
-        </td>
-      </tr>
-      <tr style="border: none;">
-        <td style="border: none">
-          <a href="https://github.com/dagimg-dot">
-            <img
-              style="border-radius: 50%;"
-              align="left"
-              src="https://avatars.githubusercontent.com/u/106905365?u=6615e5805c166c4390e3f19adeb157bcf568873f&v=4"
-              width="96"
-              height="65"
-            />
-          </a>
-        </td>
-        <td style="border: none">
-          <div>
-            <a href="https://github.com/dagimg-dot">Dagim G. Astatkie</a> 
-            starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
-          </div>
-          <div>
-            User Bio: Code Whisperer
           </div>
         </td>
       </tr>
