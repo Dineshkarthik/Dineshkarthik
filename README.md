@@ -41,6 +41,28 @@ I build and maintain optimized, scalable and highly available **data pipelines**
     <tbody cellspacing="0" cellpadding="0" style="border: none;">
       <tr style="border: none;">
         <td style="border: none">
+          <a href="https://github.com/kimjoonja">
+            <img
+              style="border-radius: 50%;"
+              align="left"
+              src="https://avatars.githubusercontent.com/u/35526029?u=07ce53c07e583e08cc735ba97a940bd5e83a501c&v=4"
+              width="96"
+              height="65"
+            />
+          </a>
+        </td>
+        <td style="border: none">
+          <div>
+            <a href="https://github.com/kimjoonja">김준자 (Kim Joon Ja)</a> 
+            starred <a href="https://github.com/Dineshkarthik/Whatsapp-analyzer">Whatsapp-analyzer</a>
+          </div>
+          <div>
+            User Bio: 때로는 인생이 벽돌로 된 무언가로 머리를 치는 것 같다. 하지만 희망을 잃지 마라 (Sometimes life hits you in the head with a brick. Don't lose faith)
+          </div>
+        </td>
+      </tr>
+      <tr style="border: none;">
+        <td style="border: none">
           <a href="https://github.com/aliiy">
             <img
               style="border-radius: 50%;"
@@ -231,28 +253,6 @@ Well versed with sklearn and tensorflow, exploring keras and ivy.
         <td style="border: none">
           <div>
             <a href="https://github.com/wari-sul">wari-sul</a> 
-            starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
-          </div>
-          <div>
-            User Bio: Nothing to 👀 here , no bio...!!
-          </div>
-        </td>
-      </tr>
-      <tr style="border: none;">
-        <td style="border: none">
-          <a href="https://github.com/HouJia">
-            <img
-              style="border-radius: 50%;"
-              align="left"
-              src="https://avatars.githubusercontent.com/u/2533830?u=cd1ee72fa5be3efdeed907427287dacb7502f3e5&v=4"
-              width="96"
-              height="65"
-            />
-          </a>
-        </td>
-        <td style="border: none">
-          <div>
-            <a href="https://github.com/HouJia">HouJia</a> 
             starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
           </div>
           <div>
