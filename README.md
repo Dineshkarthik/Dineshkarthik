@@ -41,6 +41,30 @@ I build and maintain optimized, scalable and highly available **data pipelines**
     <tbody cellspacing="0" cellpadding="0" style="border: none;">
       <tr style="border: none;">
         <td style="border: none">
+          <a href="https://github.com/nmduy-810">
+            <img
+              style="border-radius: 50%;"
+              align="left"
+              src="https://avatars.githubusercontent.com/u/35254204?u=1014f63aa6d4a9d176199fd455920f448b66b381&v=4"
+              width="96"
+              height="65"
+            />
+          </a>
+        </td>
+        <td style="border: none">
+          <div>
+            <a href="https://github.com/nmduy-810">Nguyễn Minh Duy</a> 
+            starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
+          </div>
+          <div>
+            User Bio: I live Ho Chi Minh city, in VietNam.
+
+I write code and reads book , my book usually reads is Clean Code, Algorithm.
+          </div>
+        </td>
+      </tr>
+      <tr style="border: none;">
+        <td style="border: none">
           <a href="https://github.com/samueli">
             <img
               style="border-radius: 50%;"
@@ -234,32 +258,6 @@ I build and maintain optimized, scalable and highly available **data pipelines**
           </div>
           <div>
             User Bio: DevOps Engineer        CGDCT Enjoyer
-          </div>
-        </td>
-      </tr>
-      <tr style="border: none;">
-        <td style="border: none">
-          <a href="https://github.com/MikhailovDaniil">
-            <img
-              style="border-radius: 50%;"
-              align="left"
-              src="https://avatars.githubusercontent.com/u/96633238?u=8ca697a02ee502fb3be196ab1cba3a3b8819e9c4&v=4"
-              width="96"
-              height="65"
-            />
-          </a>
-        </td>
-        <td style="border: none">
-          <div>
-            <a href="https://github.com/MikhailovDaniil">Daniil Mikhailov</a> 
-            starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
-          </div>
-          <div>
-            User Bio:  MSU (Moscow, Russia) second year student | 
-
- Economics
-|   
-Python, R
           </div>
         </td>
       </tr>
