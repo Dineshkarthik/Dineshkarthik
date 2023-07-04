@@ -41,6 +41,28 @@ I build and maintain optimized, scalable and highly available **data pipelines**
     <tbody cellspacing="0" cellpadding="0" style="border: none;">
       <tr style="border: none;">
         <td style="border: none">
+          <a href="https://github.com/ccoreilly">
+            <img
+              style="border-radius: 50%;"
+              align="left"
+              src="https://avatars.githubusercontent.com/u/11149784?u=dbbceadca9bf21856155b477890b60dcd16f3490&v=4"
+              width="96"
+              height="65"
+            />
+          </a>
+        </td>
+        <td style="border: none">
+          <div>
+            <a href="https://github.com/ccoreilly">Ciaran O'Reilly</a> 
+            starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
+          </div>
+          <div>
+            User Bio: Nothing to 👀 here , no bio...!!
+          </div>
+        </td>
+      </tr>
+      <tr style="border: none;">
+        <td style="border: none">
           <a href="https://github.com/LeoKesler">
             <img
               style="border-radius: 50%;"
@@ -236,28 +258,6 @@ I build and maintain optimized, scalable and highly available **data pipelines**
             User Bio: I live Ho Chi Minh city, in VietNam.
 
 I write code and reads book , my book usually reads is Clean Code, Algorithm.
-          </div>
-        </td>
-      </tr>
-      <tr style="border: none;">
-        <td style="border: none">
-          <a href="https://github.com/samueli">
-            <img
-              style="border-radius: 50%;"
-              align="left"
-              src="https://avatars.githubusercontent.com/u/2209675?u=295c8c3cdca9a7d7fcbcf09ab57812b264c7ee55&v=4"
-              width="96"
-              height="65"
-            />
-          </a>
-        </td>
-        <td style="border: none">
-          <div>
-            <a href="https://github.com/samueli">helloworld</a> 
-            starred <a href="https://github.com/Dineshkarthik/Send2Kindle">Send2Kindle</a>
-          </div>
-          <div>
-            User Bio: Nothing to 👀 here , no bio...!!
           </div>
         </td>
       </tr>
