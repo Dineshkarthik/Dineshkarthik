@@ -152,30 +152,6 @@ For more read README :)
       </tr>
       <tr style="border: none;">
         <td style="border: none">
-          <a href="https://github.com/vickytoriah">
-            <img
-              style="border-radius: 50%;"
-              align="left"
-              src="https://avatars.githubusercontent.com/u/115563431?v=4"
-              width="96"
-              height="65"
-            />
-          </a>
-        </td>
-        <td style="border: none">
-          <div>
-            <a href="https://github.com/vickytoriah">Victoria G.</a> 
-            starred <a href="https://github.com/Dineshkarthik/codility-training">codility-training</a>
-          </div>
-          <div>
-            User Bio: MSc Imperial College London, CFA Level I
-5 coding languages (only Python and C++ repos public)
-Experienced as a systematic trader & want to be a quant :)
-          </div>
-        </td>
-      </tr>
-      <tr style="border: none;">
-        <td style="border: none">
           <a href="https://github.com/eddiehex">
             <img
               style="border-radius: 50%;"
@@ -255,6 +231,28 @@ Experienced as a systematic trader & want to be a quant :)
         <td style="border: none">
           <div>
             <a href="https://github.com/clacf">clacf</a> 
+            starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
+          </div>
+          <div>
+            User Bio: Nothing to 👀 here , no bio...!!
+          </div>
+        </td>
+      </tr>
+      <tr style="border: none;">
+        <td style="border: none">
+          <a href="https://github.com/lxmmiao">
+            <img
+              style="border-radius: 50%;"
+              align="left"
+              src="https://avatars.githubusercontent.com/u/91322914?v=4"
+              width="96"
+              height="65"
+            />
+          </a>
+        </td>
+        <td style="border: none">
+          <div>
+            <a href="https://github.com/lxmmiao">Miao</a> 
             starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
           </div>
           <div>
