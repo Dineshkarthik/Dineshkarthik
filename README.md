@@ -41,6 +41,28 @@ I build and maintain optimized, scalable and highly available **data pipelines**
     <tbody cellspacing="0" cellpadding="0" style="border: none;">
       <tr style="border: none;">
         <td style="border: none">
+          <a href="https://github.com/rezaeieng1994">
+            <img
+              style="border-radius: 50%;"
+              align="left"
+              src="https://avatars.githubusercontent.com/u/31925338?u=1d1f3d66c0893bda6d9a3b081febcb84baec2795&v=4"
+              width="96"
+              height="65"
+            />
+          </a>
+        </td>
+        <td style="border: none">
+          <div>
+            <a href="https://github.com/rezaeieng1994">Mahdi Rezaei</a> 
+            starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
+          </div>
+          <div>
+            User Bio: Nothing to 👀 here , no bio...!!
+          </div>
+        </td>
+      </tr>
+      <tr style="border: none;">
+        <td style="border: none">
           <a href="https://github.com/jueban">
             <img
               style="border-radius: 50%;"
@@ -234,28 +256,6 @@ I build and maintain optimized, scalable and highly available **data pipelines**
           </div>
           <div>
             User Bio: Sharing value.
-          </div>
-        </td>
-      </tr>
-      <tr style="border: none;">
-        <td style="border: none">
-          <a href="https://github.com/h6rd">
-            <img
-              style="border-radius: 50%;"
-              align="left"
-              src="https://avatars.githubusercontent.com/u/51972490?u=3727197838e53a2941f2f917f027b48a0fcb7126&v=4"
-              width="96"
-              height="65"
-            />
-          </a>
-        </td>
-        <td style="border: none">
-          <div>
-            <a href="https://github.com/h6rd">hrdq</a> 
-            starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
-          </div>
-          <div>
-            User Bio: Nothing to 👀 here , no bio...!!
           </div>
         </td>
       </tr>
