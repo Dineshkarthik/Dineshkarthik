@@ -199,7 +199,7 @@ I build and maintain optimized, scalable and highly available **data pipelines**
             <img
               style="border-radius: 50%;"
               align="left"
-              src="https://avatars.githubusercontent.com/u/5819822?v=4"
+              src="https://avatars.githubusercontent.com/u/5819822?u=f5bbc103f5a3abb8666d1a7982fbe088ce8622a8&v=4"
               width="96"
               height="65"
             />
@@ -207,7 +207,7 @@ I build and maintain optimized, scalable and highly available **data pipelines**
         </td>
         <td style="border: none">
           <div>
-            <a href="https://github.com/jueban">jueban</a> 
+            <a href="https://github.com/jueban">juebanliaoshen</a> 
             starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
           </div>
           <div>
