@@ -243,7 +243,7 @@ I build and maintain optimized, scalable and highly available **data pipelines**
             <img
               style="border-radius: 50%;"
               align="left"
-              src="https://avatars.githubusercontent.com/u/156186298?v=4"
+              src="https://avatars.githubusercontent.com/u/156186298?u=2cd1aeea47dc9e1b8f63e01ed354fda7a2f49ba0&v=4"
               width="96"
               height="65"
             />
@@ -251,7 +251,7 @@ I build and maintain optimized, scalable and highly available **data pipelines**
         </td>
         <td style="border: none">
           <div>
-            <a href="https://github.com/shikaij">shikaij</a> 
+            <a href="https://github.com/shikaij">月黑杀人夜</a> 
             starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
           </div>
           <div>
