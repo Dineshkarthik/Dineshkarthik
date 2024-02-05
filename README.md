@@ -239,11 +239,11 @@ I build and maintain optimized, scalable and highly available **data pipelines**
       </tr>
       <tr style="border: none;">
         <td style="border: none">
-          <a href="https://github.com/goudiaa">
+          <a href="https://github.com/Zhongshi-Lai">
             <img
               style="border-radius: 50%;"
               align="left"
-              src="https://avatars.githubusercontent.com/u/123718306?v=4"
+              src="https://avatars.githubusercontent.com/u/28583852?v=4"
               width="96"
               height="65"
             />
@@ -251,7 +251,7 @@ I build and maintain optimized, scalable and highly available **data pipelines**
         </td>
         <td style="border: none">
           <div>
-            <a href="https://github.com/goudiaa">goudiaa</a> 
+            <a href="https://github.com/Zhongshi-Lai">Zhongshi-Lai</a> 
             starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
           </div>
           <div>
