@@ -57,7 +57,8 @@ I build and maintain optimized, scalable and highly available **data pipelines**
             starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
           </div>
           <div>
-            User Bio: 热爱的话就坚持吧。
+            User Bio: 热爱的话就坚持吧
+go on even if go down
           </div>
         </td>
       </tr>
