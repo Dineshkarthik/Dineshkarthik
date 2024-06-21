@@ -53,7 +53,7 @@ I build and maintain optimized, scalable and highly available **data pipelines**
         </td>
         <td style="border: none">
           <div>
-            <a href="https://github.com/zhangkaixing123">zhangkaixing123</a> 
+            <a href="https://github.com/zhangkaixing123">Starry</a> 
             starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
           </div>
           <div>
