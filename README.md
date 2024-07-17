@@ -41,6 +41,28 @@ I build and maintain optimized, scalable and highly available **data pipelines**
     <tbody cellspacing="0" cellpadding="0" style="border: none;">
       <tr style="border: none;">
         <td style="border: none">
+          <a href="https://github.com/noenif">
+            <img
+              style="border-radius: 50%;"
+              align="left"
+              src="https://avatars.githubusercontent.com/u/25174520?u=ffef2dd4d77e5ad406e9d891008e904d2ac8c2d9&v=4"
+              width="96"
+              height="65"
+            />
+          </a>
+        </td>
+        <td style="border: none">
+          <div>
+            <a href="https://github.com/noenif">Computer Little Xin</a> 
+            starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
+          </div>
+          <div>
+            User Bio: I am a student majoring in computer science. I hope to master cutting-edge technologies such as artificial intelligence and become an excellent developer.
+          </div>
+        </td>
+      </tr>
+      <tr style="border: none;">
+        <td style="border: none">
           <a href="https://github.com/QomariSanjaya">
             <img
               style="border-radius: 50%;"
@@ -232,28 +254,6 @@ homosexual
         <td style="border: none">
           <div>
             <a href="https://github.com/114514ysze">114514ysze</a> 
-            starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
-          </div>
-          <div>
-            User Bio: Nothing to 👀 here , no bio...!!
-          </div>
-        </td>
-      </tr>
-      <tr style="border: none;">
-        <td style="border: none">
-          <a href="https://github.com/anaer">
-            <img
-              style="border-radius: 50%;"
-              align="left"
-              src="https://avatars.githubusercontent.com/u/4637100?v=4"
-              width="96"
-              height="65"
-            />
-          </a>
-        </td>
-        <td style="border: none">
-          <div>
-            <a href="https://github.com/anaer">anaer</a> 
             starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
           </div>
           <div>
