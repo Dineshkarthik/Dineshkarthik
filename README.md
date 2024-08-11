@@ -41,11 +41,11 @@ I build and maintain optimized, scalable and highly available **data pipelines**
     <tbody cellspacing="0" cellpadding="0" style="border: none;">
       <tr style="border: none;">
         <td style="border: none">
-          <a href="https://github.com/colaObubble">
+          <a href="https://github.com/day253">
             <img
               style="border-radius: 50%;"
               align="left"
-              src="https://avatars.githubusercontent.com/u/116835467?v=4"
+              src="https://avatars.githubusercontent.com/u/9634619?v=4"
               width="96"
               height="65"
             />
@@ -53,11 +53,11 @@ I build and maintain optimized, scalable and highly available **data pipelines**
         </td>
         <td style="border: none">
           <div>
-            <a href="https://github.com/colaObubble">colaObubble</a> 
+            <a href="https://github.com/day253">Juca Da</a> 
             starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
           </div>
           <div>
-            User Bio: Nothing to 👀 here , no bio...!!
+            User Bio: Ex @Baidu, Ex @Tencent
           </div>
         </td>
       </tr>
