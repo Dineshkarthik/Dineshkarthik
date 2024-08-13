@@ -41,6 +41,50 @@ I build and maintain optimized, scalable and highly available **data pipelines**
     <tbody cellspacing="0" cellpadding="0" style="border: none;">
       <tr style="border: none;">
         <td style="border: none">
+          <a href="https://github.com/harshadvekariya">
+            <img
+              style="border-radius: 50%;"
+              align="left"
+              src="https://avatars.githubusercontent.com/u/29737079?v=4"
+              width="96"
+              height="65"
+            />
+          </a>
+        </td>
+        <td style="border: none">
+          <div>
+            <a href="https://github.com/harshadvekariya">Harshad Vekariya</a> 
+            starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
+          </div>
+          <div>
+            User Bio: I am a mechanical engineer by profession & a maker by religion, obsessed with electronics(Raspberry,Arduino,ESP32,ESP8266,etc.), python,ML,AI,IOT,Robotics.
+          </div>
+        </td>
+      </tr>
+      <tr style="border: none;">
+        <td style="border: none">
+          <a href="https://github.com/ChienliWang">
+            <img
+              style="border-radius: 50%;"
+              align="left"
+              src="https://avatars.githubusercontent.com/u/37263785?u=c506038af54a22360a4955d41e682f6fd93cf5e6&v=4"
+              width="96"
+              height="65"
+            />
+          </a>
+        </td>
+        <td style="border: none">
+          <div>
+            <a href="https://github.com/ChienliWang">ChienliWang</a> 
+            starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
+          </div>
+          <div>
+            User Bio: Nothing to 👀 here , no bio...!!
+          </div>
+        </td>
+      </tr>
+      <tr style="border: none;">
+        <td style="border: none">
           <a href="https://github.com/LFMcxixif">
             <img
               style="border-radius: 50%;"
@@ -213,50 +257,6 @@ I build and maintain optimized, scalable and highly available **data pipelines**
           <div>
             User Bio: fleshman in coding
 UCT+8
-          </div>
-        </td>
-      </tr>
-      <tr style="border: none;">
-        <td style="border: none">
-          <a href="https://github.com/chenzhuolin1002">
-            <img
-              style="border-radius: 50%;"
-              align="left"
-              src="https://avatars.githubusercontent.com/u/995325?v=4"
-              width="96"
-              height="65"
-            />
-          </a>
-        </td>
-        <td style="border: none">
-          <div>
-            <a href="https://github.com/chenzhuolin1002">chenzhuolin1002</a> 
-            starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
-          </div>
-          <div>
-            User Bio: Nothing to 👀 here , no bio...!!
-          </div>
-        </td>
-      </tr>
-      <tr style="border: none;">
-        <td style="border: none">
-          <a href="https://github.com/nancyhany44">
-            <img
-              style="border-radius: 50%;"
-              align="left"
-              src="https://avatars.githubusercontent.com/u/176230794?v=4"
-              width="96"
-              height="65"
-            />
-          </a>
-        </td>
-        <td style="border: none">
-          <div>
-            <a href="https://github.com/nancyhany44">nancyhany44</a> 
-            starred <a href="https://github.com/Dineshkarthik/codility-training">codility-training</a>
-          </div>
-          <div>
-            User Bio: Nothing to 👀 here , no bio...!!
           </div>
         </td>
       </tr>
