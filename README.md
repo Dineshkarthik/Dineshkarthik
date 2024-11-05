@@ -101,7 +101,7 @@ I build and maintain optimized, scalable and highly available **data pipelines**
             starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
           </div>
           <div>
-            User Bio: AI & ML Expert | Senior IT Auditor | Data Engineer | Full Stack Developer | Passionate about innovation, cybersecurity, and data-driven solutions.
+            User Bio: Lead AI Scientist & Developer at Gain Energy | Expert in Custom LLMs & AI-Driven Innovations for Oil & Gas
           </div>
         </td>
       </tr>
