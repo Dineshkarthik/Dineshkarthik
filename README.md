@@ -41,6 +41,28 @@ I build and maintain optimized, scalable and highly available **data pipelines**
     <tbody cellspacing="0" cellpadding="0" style="border: none;">
       <tr style="border: none;">
         <td style="border: none">
+          <a href="https://github.com/AleksNeStu">
+            <img
+              style="border-radius: 50%;"
+              align="left"
+              src="https://avatars.githubusercontent.com/u/16610768?u=96a8823d80d8fbdb0fa25e989bd614e666575bb5&v=4"
+              width="96"
+              height="65"
+            />
+          </a>
+        </td>
+        <td style="border: none">
+          <div>
+            <a href="https://github.com/AleksNeStu">Alex Nesterovich</a> 
+            starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
+          </div>
+          <div>
+            User Bio: Senior Software Engineer
+          </div>
+        </td>
+      </tr>
+      <tr style="border: none;">
+        <td style="border: none">
           <a href="https://github.com/f-reeeeee">
             <img
               style="border-radius: 50%;"
@@ -235,28 +257,6 @@ Pseudonym: AslordX.
           </div>
           <div>
             User Bio: Dota 2 Custom Games Developer
-          </div>
-        </td>
-      </tr>
-      <tr style="border: none;">
-        <td style="border: none">
-          <a href="https://github.com/Pyswann">
-            <img
-              style="border-radius: 50%;"
-              align="left"
-              src="https://avatars.githubusercontent.com/u/148762227?u=e6123a353786580df010e8e6932d8651e2274efc&v=4"
-              width="96"
-              height="65"
-            />
-          </a>
-        </td>
-        <td style="border: none">
-          <div>
-            <a href="https://github.com/Pyswann">Lutfor Sohan</a> 
-            starred <a href="https://github.com/Dineshkarthik/pinterest-telegram-bot">pinterest-telegram-bot</a>
-          </div>
-          <div>
-            User Bio: Passionate Python learner and content writer. 🐍 Excited about scraping projects and exploring the endless possibilities of coding. #Python #CodingAdventure
           </div>
         </td>
       </tr>
