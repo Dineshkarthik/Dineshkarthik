@@ -229,11 +229,11 @@ I build and maintain optimized, scalable and highly available **data pipelines**
         </td>
         <td style="border: none">
           <div>
-            <a href="https://github.com/shimoxi123">shimoxi123</a> 
+            <a href="https://github.com/shimoxi123">shimoxijimu</a> 
             starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
           </div>
           <div>
-            User Bio: Nothing to 👀 here , no bio...!!
+            User Bio: 开源爱好者
           </div>
         </td>
       </tr>
