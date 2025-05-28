@@ -85,28 +85,6 @@ I build and maintain optimized, scalable and highly available **data pipelines**
       </tr>
       <tr style="border: none;">
         <td style="border: none">
-          <a href="https://github.com/disspann">
-            <img
-              style="border-radius: 50%;"
-              align="left"
-              src="https://avatars.githubusercontent.com/u/78651015?u=0f0b418f9a2872567d269d3a8a4e160a5867d5c2&v=4"
-              width="96"
-              height="65"
-            />
-          </a>
-        </td>
-        <td style="border: none">
-          <div>
-            <a href="https://github.com/disspann">disspann</a> 
-            starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
-          </div>
-          <div>
-            User Bio: Nothing to 👀 here , no bio...!!
-          </div>
-        </td>
-      </tr>
-      <tr style="border: none;">
-        <td style="border: none">
           <a href="https://github.com/qbeenslee">
             <img
               style="border-radius: 50%;"
@@ -256,6 +234,28 @@ I build and maintain optimized, scalable and highly available **data pipelines**
           </div>
           <div>
             User Bio: Nothing to 👀 here , no bio...!!
+          </div>
+        </td>
+      </tr>
+      <tr style="border: none;">
+        <td style="border: none">
+          <a href="https://github.com/duwanqiebi">
+            <img
+              style="border-radius: 50%;"
+              align="left"
+              src="https://avatars.githubusercontent.com/u/15633399?u=dbb03550bd56477f344a5e79aa84b8d907340f57&v=4"
+              width="96"
+              height="65"
+            />
+          </a>
+        </td>
+        <td style="border: none">
+          <div>
+            <a href="https://github.com/duwanqiebi">张强</a> 
+            starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
+          </div>
+          <div>
+            User Bio: 爱技术，爱音乐
           </div>
         </td>
       </tr>
