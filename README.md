@@ -163,11 +163,11 @@ I build and maintain optimized, scalable and highly available **data pipelines**
         </td>
         <td style="border: none">
           <div>
-            <a href="https://github.com/raeldev">Israel Augusto Moreira</a> 
+            <a href="https://github.com/raeldev">Israel Moreira</a> 
             starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
           </div>
           <div>
-            User Bio: Eu sou um fiapo da poeira do vácuo cósmico criado por Deus.
+            User Bio: 🧑‍💻Software Engineer - Vibe Coder 🤖 IA Student
           </div>
         </td>
       </tr>
