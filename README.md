@@ -101,7 +101,7 @@ I build and maintain optimized, scalable and highly available **data pipelines**
             starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
           </div>
           <div>
-            User Bio: FOSS nerd ❤️‍🔥
+            User Bio: FOSS
           </div>
         </td>
       </tr>
