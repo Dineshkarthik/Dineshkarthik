@@ -243,7 +243,7 @@ I build and maintain optimized, scalable and highly available **data pipelines**
             <img
               style="border-radius: 50%;"
               align="left"
-              src="https://avatars.githubusercontent.com/u/246930069?v=4"
+              src="https://avatars.githubusercontent.com/u/246930069?u=4cef41e7a7a6b380013a668df9534c5cbcf65815&v=4"
               width="96"
               height="65"
             />
