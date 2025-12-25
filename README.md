@@ -199,7 +199,7 @@ I build and maintain optimized, scalable and highly available **data pipelines**
             <img
               style="border-radius: 50%;"
               align="left"
-              src="https://avatars.githubusercontent.com/u/107781630?u=0cd44412cb4a9c151c6cb04b68e4df258580cdfa&v=4"
+              src="https://avatars.githubusercontent.com/u/107781630?u=4daeee5f29f5be789e146c2a970d07b3ffaedf3a&v=4"
               width="96"
               height="65"
             />
@@ -207,7 +207,7 @@ I build and maintain optimized, scalable and highly available **data pipelines**
         </td>
         <td style="border: none">
           <div>
-            <a href="https://github.com/DevWand">Deco Dev</a> 
+            <a href="https://github.com/DevWand">Wander Dev</a> 
             starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
           </div>
           <div>
