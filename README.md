@@ -41,6 +41,30 @@ I build and maintain optimized, scalable and highly available **data pipelines**
     <tbody cellspacing="0" cellpadding="0" style="border: none;">
       <tr style="border: none;">
         <td style="border: none">
+          <a href="https://github.com/code-leitianshuo">
+            <img
+              style="border-radius: 50%;"
+              align="left"
+              src="https://avatars.githubusercontent.com/u/83451428?u=19554eac6461fae0e2299f78dee90cc8884bcc2e&v=4"
+              width="96"
+              height="65"
+            />
+          </a>
+        </td>
+        <td style="border: none">
+          <div>
+            <a href="https://github.com/code-leitianshuo">leitianshuo1337</a> 
+            starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
+          </div>
+          <div>
+            User Bio: #3110 vv091)
+1'nn 131714^/5#v01337, 1 11>|3  #4[>| & [94[>|  5>|1115, 
+1 [4^/ |*90694nn 1^/ [ [|*|* |*j7#0^/ 45nn, 1 [4^/ v53 1)4 ><64)86 4^/) nn4^/j 07#395
+          </div>
+        </td>
+      </tr>
+      <tr style="border: none;">
+        <td style="border: none">
           <a href="https://github.com/wgj45424">
             <img
               style="border-radius: 50%;"
@@ -234,28 +258,6 @@ I build and maintain optimized, scalable and highly available **data pipelines**
           </div>
           <div>
             User Bio: Nothing to 👀 here , no bio...!!
-          </div>
-        </td>
-      </tr>
-      <tr style="border: none;">
-        <td style="border: none">
-          <a href="https://github.com/DitherZ">
-            <img
-              style="border-radius: 50%;"
-              align="left"
-              src="https://avatars.githubusercontent.com/u/268499499?u=b62d24a476d4bc6858cc65906d1dcfbd362346d8&v=4"
-              width="96"
-              height="65"
-            />
-          </a>
-        </td>
-        <td style="border: none">
-          <div>
-            <a href="https://github.com/DitherZ">JasønZ</a> 
-            starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
-          </div>
-          <div>
-            User Bio: Scrıpt Kıddy x
           </div>
         </td>
       </tr>
