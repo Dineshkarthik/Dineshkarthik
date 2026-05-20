@@ -16,9 +16,9 @@ jobs:
         ref: ${{ github.head_ref }}
 
     - name: 🐍 Setup Python
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@v4
       with:
-        python-version: 3.8
+        python-version: 3.13
         
     - name: 📥 Install Packages
       run: pip install -r requirements.txt
