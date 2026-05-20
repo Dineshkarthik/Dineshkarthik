@@ -262,7 +262,7 @@ I lead cross-functional engineering teams, guiding analysts, developers, and ML 
           </div>
         </td>
       </tr>
-    </tbody>
+      </tbody>
   </table>
 </details>
 
