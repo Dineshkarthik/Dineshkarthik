@@ -1,39 +1,42 @@
-![](https://github.com/Dineshkarthik/Dineshkarthik/blob/master/assets/cover.jpg)
-The Dark-Mode always wins.
-
-Striving to maintain the perfect balance between `It doesn't work...! Why?` vs `It works...! Why?`. <img src="https://github.com/Dineshkarthik/Dineshkarthik/blob/master/assets/starwars_fight.gif" width="50">
-
-
-### 👋 Hi, I'm Dineshkarthik Raveendran (DK).
-
-I build and maintain optimized, scalable and highly available **data pipelines** ingesting data into **Data Lake** & **Data Warehouse** which facilitate deeper analysis, reporting and ML modelling.
-
-
-- 🔭 I’m currently working on building and improving a configuration-based format for managing complex data pipelines in Airflow - [Declarative Data Pipeline Definition](https://www.thoughtworks.com/de/radar/techniques?blipid=202005084).
-- 🌱 I’m currently learning more Scala, NLP, and how to [write](https://medium.com/@dineshkarthik.r) occasionally.
-- 👯 I’m looking to collaborate on contributing to python based projects and mentoring.
-- 🤔 I’m looking for contributions to the [`telegram-media-downloader`](https://github.com/Dineshkarthik/telegram_media_downloader) repository(code, report issues) 
-- 💬 Ask me about data science and engineering, learning, and career.
-- 📫 How to reach me: [hello@dineshkarthik.me](mailto:hello@dineshkarthik.me)
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: Never used PyCharm or IntelliJ or any such IDE
-
-## 📈 Github Stats
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dineshkarthik&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dineshkarthik&hide_border=true" />
-  
-## Connect with Me 🤝🏻
-
 <p align="center">
-<a href="https://dineshkarthik.me"><img alt="Website" src="https://img.shields.io/badge/Website-dineshkarthik.me-blue?style=flat&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/dineshkarthik-r/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIN-Dineshkarthik%20Raveendran-blue?style=flat&logo=linkedin"></a>
-<a href="https://twitter.com/Dineshkarthik_R"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Dineshkarthik%20R-blue?style=flat&logo=twitter"></a>
-<a href="https://medium.com/@dineshkarthik.r"><img alt="Blog" src="https://img.shields.io/badge/Medium-Dineshkarthik%20Raveendran-blue?style=flat&logo=medium"></a>
-<img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Dineshkarthik">
+  <img src="assets/cover.png" alt="Dineshkarthik Raveendran Cover" width="100%">
 </p>
 
+# Dineshkarthik Raveendran (DK)
 
-## Some fun stuffs:
+I build data platforms, applied AI enablement, and the engineering teams behind them. 
+
+My work sits at the intersection of data architecture, platform trust, and business operations. I believe a successful data platform isn’t just about technology; it’s about containing complexity in the right places, establishing trust, and building organizational capability that lasts.
+
+Based in Berlin.
+
+---
+
+### 🧩 What I Focus On
+
+#### Platform Strategy & High-Trust Architecture
+I design batch, streaming, and lakehouse systems that balance performance with scalability. I specialize in architectures built on tools like Python, Airflow, Spark, Kafka, ClickHouse, Iceberg, and Presto. But more than the stack, my goal is creating a developer experience where analytics and AI delivery are fast, governed, and reliable.
+
+#### Operationalizing AI
+I help translate AI opportunities into production systems connected to actual operational workflows. This means focusing on the underlying data foundations and governance needed for measurable adoption and real-world impact.
+
+#### Team Execution
+I lead cross-functional engineering teams, guiding analysts, developers, and ML practitioners. I focus on creating a sustainable delivery rhythm, clear prioritization, and high standards of execution.
+
+---
+
+### 🏆 Beyond the Day Job
+
+- **Community & Python**: I'm a contributing member of the [Python Software Foundation (PSF)](https://wiki.python.org/psf/dineshkarthik), supporting the ecosystem behind modern data tooling.
+- **Open Source**: I contribute to public-interest technical infrastructure as a tools administrator and developer for [Wikimedia](https://phabricator.wikimedia.org/p/Dineshkarthik/). I also maintain **[telegram-media-downloader](https://github.com/Dineshkarthik/telegram_media_downloader)**, a popular CLI media tool.
+- **Writing**: I wrote [*Mastering Time Management: Data-Driven Approaches*](https://amzn.eu/d/g1nYJlo), connecting data-driven thinking with professional operating discipline. I also write regularly about data stack complexity and team leverage on my blog.
+- **Speaking**: I share real-world engineering lessons, such as transitioning warehouse-centric architectures to lakehouse patterns (see my talk [*From DWH to Data Lake: A Story of 2 Data Engineers*](https://youtu.be/mUPSAr2dJ3Q?feature=shared&t=947)).
+
+---
+
+### 🛠️ Featured Open Source
+
+* **[telegram-media-downloader](https://github.com/Dineshkarthik/telegram_media_downloader)** — A highly performant, customizable CLI tool to download media files from Telegram channels and chats, supporting advanced filtering and configuration.
 
 <details>
   <summary><b>⭐ Recent Stargazers</b></summary>
@@ -65,3 +68,34 @@ I build and maintain optimized, scalable and highly available **data pipelines**
       {% endfor %}</tbody>
   </table>
 </details>
+
+---
+
+### ✍️ Selected Writing
+
+- [Where AI fits in the modern data stack](https://dineshkarthik.me/blogs/where-ai-fits-in-the-modern-data-stack.html)
+- [How to reduce data platform complexity without slowing teams down](https://dineshkarthik.me/blogs/reduce-data-platform-complexity.html)
+- [Why most data teams are busy but not effective](https://dineshkarthik.me/blogs/why-most-data-teams-are-busy-but-not-effective.html)
+- [What I look for in a modern data platform](https://dineshkarthik.me/blogs/what-i-look-for-in-a-modern-data-platform.html)
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dineshkarthik&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=nord" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dineshkarthik&hide_border=true&theme=nord" />
+</p>
+
+---
+
+### Connect with Me 🤝
+
+<p align="center">
+  <a href="https://dineshkarthik.me"><img alt="Website" src="https://img.shields.io/badge/Website-dineshkarthik.me-12100e?style=flat-square&logo=google-chrome"></a>
+  <a href="https://www.linkedin.com/in/dineshkarthik-r/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Dineshkarthik_Raveendran-0077b5?style=flat-square&logo=linkedin"></a>
+  <a href="https://medium.com/@dineshkarthik.r"><img alt="Medium" src="https://img.shields.io/badge/Medium-Dineshkarthik_Raveendran-12100e?style=flat-square&logo=medium"></a>
+  <a href="https://twitter.com/Dineshkarthik_R"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Dineshkarthik_R-1da1f2?style=flat-square&logo=twitter"></a>
+  <br><br>
+  <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Dineshkarthik">
+</p>
