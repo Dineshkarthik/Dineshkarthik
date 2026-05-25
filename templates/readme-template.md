@@ -73,10 +73,11 @@ I lead cross-functional engineering teams, guiding analysts, developers, and ML 
 
 ### ✍️ Selected Writing
 
-- [Where AI fits in the modern data stack](https://dineshkarthik.me/blogs/where-ai-fits-in-the-modern-data-stack.html)
-- [How to reduce data platform complexity without slowing teams down](https://dineshkarthik.me/blogs/reduce-data-platform-complexity.html)
-- [Why most data teams are busy but not effective](https://dineshkarthik.me/blogs/why-most-data-teams-are-busy-but-not-effective.html)
-- [What I look for in a modern data platform](https://dineshkarthik.me/blogs/what-i-look-for-in-a-modern-data-platform.html)
+- [What executives actually need from a data leader](https://dineshkarthik.me/blogs/what-executives-actually-need-from-a-data-leader?utm_source=github.com&utm_medium=readme&utm_campaign=GitHub_Profile)
+- [Where AI fits in the modern data stack](https://dineshkarthik.me/blogs/where-ai-fits-in-the-modern-data-stack?utm_source=github.com&utm_medium=readme&utm_campaign=GitHub_Profile)
+- [How to reduce data platform complexity without slowing teams down](https://dineshkarthik.me/blogs/reduce-data-platform-complexity?utm_source=github.com&utm_medium=readme&utm_campaign=GitHub_Profile)
+- [Why most data teams are busy but not effective](https://dineshkarthik.me/blogs/why-most-data-teams-are-busy-but-not-effective?utm_source=github.com&utm_medium=readme&utm_campaign=GitHub_Profile)
+- [What I look for in a modern data platform](https://dineshkarthik.me/blogs/what-i-look-for-in-a-modern-data-platform?utm_source=github.com&utm_medium=readme&utm_campaign=GitHub_Profile)
 
 ---
 
