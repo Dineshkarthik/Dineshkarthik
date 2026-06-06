@@ -44,6 +44,29 @@ I lead cross-functional engineering teams, guiding analysts, developers, and ML 
     <tbody cellspacing="0" cellpadding="0" style="border: none;">
       <tr style="border: none;">
         <td style="border: none">
+          <a href="https://github.com/jxalan">
+            <img
+              style="border-radius: 50%;"
+              align="left"
+              src="https://avatars.githubusercontent.com/u/181421690?u=d0aa2f1d97aa56cfc7c301c915a6c73a68643a7a&v=4"
+              width="96"
+              height="65"
+            />
+          </a>
+        </td>
+        <td style="border: none">
+          <div>
+            <a href="https://github.com/jxalan">Alan Salvador</a> 
+            starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
+          </div>
+          <div>
+            User Bio: 💻 Code | 🚀 Ship | ☕ Repeat. 
+Always learning & building. Enthusiastic about new tech & complex problems. #learning #building #softwareengineer
+          </div>
+        </td>
+      </tr>
+      <tr style="border: none;">
+        <td style="border: none">
           <a href="https://github.com/JimmyKent">
             <img
               style="border-radius: 50%;"
@@ -237,28 +260,6 @@ I lead cross-functional engineering teams, guiding analysts, developers, and ML 
           </div>
           <div>
             User Bio: 真男人应该雄进
-          </div>
-        </td>
-      </tr>
-      <tr style="border: none;">
-        <td style="border: none">
-          <a href="https://github.com/LuoTat">
-            <img
-              style="border-radius: 50%;"
-              align="left"
-              src="https://avatars.githubusercontent.com/u/131940814?u=97d0f107caba45fc3e5eb086b82585d5fa567abe&v=4"
-              width="96"
-              height="65"
-            />
-          </a>
-        </td>
-        <td style="border: none">
-          <div>
-            <a href="https://github.com/LuoTat">LuoTat</a> 
-            starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
-          </div>
-          <div>
-            User Bio: Just Learn It!!!
           </div>
         </td>
       </tr>
