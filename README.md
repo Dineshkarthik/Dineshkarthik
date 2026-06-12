@@ -44,6 +44,31 @@ I lead cross-functional engineering teams, guiding analysts, developers, and ML 
     <tbody cellspacing="0" cellpadding="0" style="border: none;">
       <tr style="border: none;">
         <td style="border: none">
+          <a href="https://github.com/GAC-Machine">
+            <img
+              style="border-radius: 50%;"
+              align="left"
+              src="https://avatars.githubusercontent.com/u/141077601?v=4"
+              width="96"
+              height="65"
+            />
+          </a>
+        </td>
+        <td style="border: none">
+          <div>
+            <a href="https://github.com/GAC-Machine">Mr Giuseppe Adalberto Cino</a> 
+            starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
+          </div>
+          <div>
+            User Bio: CS-Student \n
+Now() --> (enrolled in uni of Palermo for a BS in Computer Science)
+\n
+Next() --> (willing to be enrolled in uni of (ZLBDCOH) for a MS in CS)
+          </div>
+        </td>
+      </tr>
+      <tr style="border: none;">
+        <td style="border: none">
           <a href="https://github.com/starsink-d">
             <img
               style="border-radius: 50%;"
@@ -234,28 +259,6 @@ Always learning & building. Enthusiastic about new tech & complex problems. #lea
         <td style="border: none">
           <div>
             <a href="https://github.com/851608438">851608438</a> 
-            starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
-          </div>
-          <div>
-            User Bio: Nothing to 👀 here , no bio...!!
-          </div>
-        </td>
-      </tr>
-      <tr style="border: none;">
-        <td style="border: none">
-          <a href="https://github.com/fernando-sc">
-            <img
-              style="border-radius: 50%;"
-              align="left"
-              src="https://avatars.githubusercontent.com/u/3429859?u=d2f9a6aafa2cda90a656ba2a649a0a7c4f75cc99&v=4"
-              width="96"
-              height="65"
-            />
-          </a>
-        </td>
-        <td style="border: none">
-          <div>
-            <a href="https://github.com/fernando-sc">fernando-sc</a> 
             starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
           </div>
           <div>
