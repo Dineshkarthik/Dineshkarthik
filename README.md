@@ -44,6 +44,28 @@ I lead cross-functional engineering teams, guiding analysts, developers, and ML 
     <tbody cellspacing="0" cellpadding="0" style="border: none;">
       <tr style="border: none;">
         <td style="border: none">
+          <a href="https://github.com/iammohamedafran">
+            <img
+              style="border-radius: 50%;"
+              align="left"
+              src="https://avatars.githubusercontent.com/u/191906081?u=df5c6e1555263bb6421eaad334d0b4ea8c0ebe59&v=4"
+              width="96"
+              height="65"
+            />
+          </a>
+        </td>
+        <td style="border: none">
+          <div>
+            <a href="https://github.com/iammohamedafran">Mohamed Afran</a> 
+            starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
+          </div>
+          <div>
+            User Bio: @iammohamedafran
+          </div>
+        </td>
+      </tr>
+      <tr style="border: none;">
+        <td style="border: none">
           <a href="https://github.com/DarkxLucifer">
             <img
               style="border-radius: 50%;"
@@ -240,29 +262,6 @@ Next() --> (willing to be enrolled in uni of (ZLBDCOH) for a MS in CS)
           </div>
           <div>
             User Bio: idk what to write ... maybe later 🐧
-          </div>
-        </td>
-      </tr>
-      <tr style="border: none;">
-        <td style="border: none">
-          <a href="https://github.com/jxalan">
-            <img
-              style="border-radius: 50%;"
-              align="left"
-              src="https://avatars.githubusercontent.com/u/181421690?u=d0aa2f1d97aa56cfc7c301c915a6c73a68643a7a&v=4"
-              width="96"
-              height="65"
-            />
-          </a>
-        </td>
-        <td style="border: none">
-          <div>
-            <a href="https://github.com/jxalan">Alan Salvador</a> 
-            starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
-          </div>
-          <div>
-            User Bio: 💻 Code | 🚀 Ship | ☕ Repeat. 
-Always learning & building. Enthusiastic about new tech & complex problems. #learning #building #softwareengineer
           </div>
         </td>
       </tr>
