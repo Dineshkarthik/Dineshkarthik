@@ -78,11 +78,11 @@ I lead cross-functional engineering teams, guiding analysts, developers, and ML 
         </td>
         <td style="border: none">
           <div>
-            <a href="https://github.com/asielf004">asielf004</a> 
+            <a href="https://github.com/asielf004">Remas saad</a> 
             starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
           </div>
           <div>
-            User Bio: Nothing to 👀 here , no bio...!!
+            User Bio: IT Graduate | OT Security | Python | SQL | FinTech
           </div>
         </td>
       </tr>
