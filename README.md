@@ -242,11 +242,11 @@ I lead cross-functional engineering teams, guiding analysts, developers, and ML 
       </tr>
       <tr style="border: none;">
         <td style="border: none">
-          <a href="https://github.com/chechecyc0">
+          <a href="https://github.com/san-ren">
             <img
               style="border-radius: 50%;"
               align="left"
-              src="https://avatars.githubusercontent.com/u/159692271?u=c3053cf3c767017a2d7cb7c20cdc289206c060a4&v=4"
+              src="https://avatars.githubusercontent.com/u/86779955?v=4"
               width="96"
               height="65"
             />
@@ -254,7 +254,7 @@ I lead cross-functional engineering teams, guiding analysts, developers, and ML 
         </td>
         <td style="border: none">
           <div>
-            <a href="https://github.com/chechecyc0">chechecyc0</a> 
+            <a href="https://github.com/san-ren">san-ren</a> 
             starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
           </div>
           <div>
