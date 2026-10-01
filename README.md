@@ -44,6 +44,28 @@ I lead cross-functional engineering teams, guiding analysts, developers, and ML 
     <tbody cellspacing="0" cellpadding="0" style="border: none;">
       <tr style="border: none;">
         <td style="border: none">
+          <a href="https://github.com/robertoatila">
+            <img
+              style="border-radius: 50%;"
+              align="left"
+              src="https://avatars.githubusercontent.com/u/209462927?v=4"
+              width="96"
+              height="65"
+            />
+          </a>
+        </td>
+        <td style="border: none">
+          <div>
+            <a href="https://github.com/robertoatila">Roberto Átila</a> 
+            starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
+          </div>
+          <div>
+            User Bio: Full-Stack Developer | Java · Spring Boot · PHP · JavaScript | TCC: SaaS multi-tenant com JWT e Docker | Buscando 1º estágio · 18 anos
+          </div>
+        </td>
+      </tr>
+      <tr style="border: none;">
+        <td style="border: none">
           <a href="https://github.com/lingyisky">
             <img
               style="border-radius: 50%;"
@@ -237,28 +259,6 @@ I lead cross-functional engineering teams, guiding analysts, developers, and ML 
           </div>
           <div>
             User Bio: Nothing to 👀 here , no bio...!!
-          </div>
-        </td>
-      </tr>
-      <tr style="border: none;">
-        <td style="border: none">
-          <a href="https://github.com/lhshuasheng">
-            <img
-              style="border-radius: 50%;"
-              align="left"
-              src="https://avatars.githubusercontent.com/u/151726404?u=e45e9e061119f9153291d80a74f7a51a7629a582&v=4"
-              width="96"
-              height="65"
-            />
-          </a>
-        </td>
-        <td style="border: none">
-          <div>
-            <a href="https://github.com/lhshuasheng">huasheng</a> 
-            starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
-          </div>
-          <div>
-            User Bio: Hello World!
           </div>
         </td>
       </tr>
