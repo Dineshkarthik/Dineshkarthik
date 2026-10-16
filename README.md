@@ -44,6 +44,28 @@ I lead cross-functional engineering teams, guiding analysts, developers, and ML 
     <tbody cellspacing="0" cellpadding="0" style="border: none;">
       <tr style="border: none;">
         <td style="border: none">
+          <a href="https://github.com/yuansui486">
+            <img
+              style="border-radius: 50%;"
+              align="left"
+              src="https://avatars.githubusercontent.com/u/125107032?u=e7d43e19ab28fb0c7767da12cb047ca44ed75770&v=4"
+              width="96"
+              height="65"
+            />
+          </a>
+        </td>
+        <td style="border: none">
+          <div>
+            <a href="https://github.com/yuansui486">mr_element</a> 
+            starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
+          </div>
+          <div>
+            User Bio: 构建实用的桌面应用与命令行工具｜Rust · Tauri · TypeScript
+          </div>
+        </td>
+      </tr>
+      <tr style="border: none;">
+        <td style="border: none">
           <a href="https://github.com/SamIsTheFBI">
             <img
               style="border-radius: 50%;"
@@ -237,28 +259,6 @@ I lead cross-functional engineering teams, guiding analysts, developers, and ML 
           </div>
           <div>
             User Bio: Full-Stack Developer | Java · Spring Boot · PHP · JavaScript | TCC: SaaS multi-tenant com JWT e Docker | Buscando 1º estágio · 18 anos
-          </div>
-        </td>
-      </tr>
-      <tr style="border: none;">
-        <td style="border: none">
-          <a href="https://github.com/lingyisky">
-            <img
-              style="border-radius: 50%;"
-              align="left"
-              src="https://avatars.githubusercontent.com/u/29627913?v=4"
-              width="96"
-              height="65"
-            />
-          </a>
-        </td>
-        <td style="border: none">
-          <div>
-            <a href="https://github.com/lingyisky">lingyisky</a> 
-            starred <a href="https://github.com/Dineshkarthik/telegram_media_downloader">telegram_media_downloader</a>
-          </div>
-          <div>
-            User Bio: Nothing to 👀 here , no bio...!!
           </div>
         </td>
       </tr>
