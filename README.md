@@ -92,7 +92,7 @@ I lead cross-functional engineering teams, guiding analysts, developers, and ML 
             <img
               style="border-radius: 50%;"
               align="left"
-              src="https://avatars.githubusercontent.com/u/229483305?u=04c064cc6f9867bd3e77bb8615ad35e7fabcbd56&v=4"
+              src="https://avatars.githubusercontent.com/u/229483305?u=8a2cab584623a2a1d3b03583f85dc1cda15c7d57&v=4"
               width="96"
               height="65"
             />
